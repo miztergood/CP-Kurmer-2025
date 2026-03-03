@@ -1,0 +1,21 @@
+```json
+{
+  "kategori": "Mata Pelajaran Umum (SD/MI, SMP/MTs, SMA/MA)",
+  "mata_pelajaran": [
+    {
+      "nama": "Bahasa Inggris Tingkat Lanjut",
+      "capaian_per_fase": [
+        {
+          "fase": "F",
+          "kelas": "XI dan XII SMA/MA/Program Paket C",
+          "elemen": {
+            "Menyimak - Berbicara (Listening - Speaking)": "Memahami alur cerita atau informasi dari teks narasi, eksposisi, dan diskusi tentang isu terkini atau topik terkait mata pelajaran lain secara lisan atau multimodal; menggunakan bahasa Inggris untuk mengungkapkan pendapat dan mempertahankan argumen tentang topik yang dibahas. (Understand the storyline or information from narrative, exposition, and discussion texts on current issues or topics related to other subjects in spoken or multimodal texts; using English to express their opinions and defend their arguments about the topics being discussed)",
+            "Membaca - Memirsa (Reading - Viewing)": "Mengevaluasi dan merefleksi informasi tersurat dan tersirat dari teks narasi, eksposisi dan diskusi tentang isu terkini baik nasional maupun global, atau topik yang terkait mata pelajaran lain secara tertulis atau multimodal. (Evaluate and reflect on explicit and implicit information from narrative, exposition, and discussion on current issues, both national and global, or topics related to other subjects in written or multimodal texts)",
+            "Menulis - Mempresentasikan (Writing - Presenting)": "Mengomunikasikan gagasan atau pengalaman secara tertulis atau multimodal dalam teks narasi, eksposisi, dan diskusi tentang berbagai topik dengan struktur teks dan unsur kebahasaan yang tepat, jelas, dan detail dengan menggunakan berbagai media presentasi (cetak atau digital); menulis cerita pendek, pendapat atau pandangan tentang suatu topik atau isu dengan mengungkapkan argumen yang didukung dengan data dan fakta, atau membahas suatu isu dengan menjelaskan manfaat dan kelemahan atau argumen yang mendukung dan menentang tentang suatu isu terkini yang kontroversial. (Communicate ideas or experiences in written or multimodal texts in narrative, exposition, and discussion texts on various topics with clear and detailed text structure and language features using different media of presentation (print or digital); write short stories, their opinions or viewpoints about a topic or an issue by using arguments supported with data and facts, or discuss an issue by explaining the advantages and disadvantages or arguments for and against controversial current issues)"
+          }
+        }
+      ]
+    }
+  ]
+}
+```
