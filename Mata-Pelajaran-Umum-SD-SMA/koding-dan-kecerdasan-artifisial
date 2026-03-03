@@ -1,0 +1,85 @@
+```json
+{
+  "kategori": "Mata Pelajaran Umum (SD/MI, SMP/MTs, SMA/MA) dan Kejuruan (SMK/MAK)",
+  "mata_pelajaran": [
+    {
+      "nama": "Koding dan Kecerdasan Artifisial (SD/MI, SMP/MTs, SMA/MA)",
+      "capaian_per_fase": [
+        {
+          "fase": "C",
+          "kelas": "V dan VI SD/MI",
+          "elemen": {
+            "Berpikir Komputasional": "Memahami permasalahan sederhana dalam kehidupan sehari-hari, menerapkan pemecahan masalah secara sistematis, serta menuliskan instruksi logis dan terstruktur menggunakan sekumpulan kosakata atau simbol.",
+            "Literasi Digital": "Memahami konsep dasar, manfaat, dan dampak teknologi digital, memahami sistem komputer tingkat pradasar, menerapkan pengamanan informasi pribadi dalam komunikasi daring, memanfaatkan internet, dan memproduksi serta mendiseminasi konten digital dalam bentuk teks dan gambar.",
+            "Literasi dan Etika Kecerdasan Artifisial": "Memahami konsep KA sederhana, manfaat dan dampak KA pada kehidupan sehari-hari, prinsip bahwa KA dikembangkan untuk meningkatkan kesejahteraan manusia dan tidak boleh merugikan manusia, mengetahui perbedaan manusia dan komputer dalam melakukan penginderaan, dan mengetahui perbedaan antara mesin cerdas dan mesin non-cerdas. Memahami etika dasar penggunaan KA seperti empati dan tidak menyakiti orang lain.",
+            "Pemanfaatan dan Pengembangan Kecerdasan Artifisial": "Menyimulasikan secara sederhana kerja KA saat mengenali pola, mengklasifikasi benda konkret berdasarkan sifatnya, dan mengetahui bagaimana prediksi sistem KA dipengaruhi input benda konkret."
+          }
+        },
+        {
+          "fase": "D",
+          "kelas": "VII, VIII dan IX SMP/MTs",
+          "elemen": {
+            "Berpikir Komputasional": "Menerapkan pengelolaan data, pemecahan masalah sederhana dalam kehidupan masyarakat secara sistematis, dan menuliskan instruksi.",
+            "Literasi Digital": "Memproduksi dan mendiseminasi konten digital berupa audio, video, slide, dan infografis.",
+            "Literasi dan Etika Kecerdasan Artifisial": "Memahami perbedaan cara manusia dan KA menggabungkan informasi dari beberapa perangkat penginderaan atau sensor, memahami bagaimana komputer memaknai informasi dari perangkat penginderaan atau sensor, memahami kualitas data, serta manfaat dan dampak KA pada kehidupan masyarakat. Memahami etika penggunaan KA dalam kehidupan sehari-hari seperti menjaga data pribadi dalam menggunakan KA, KA adalah sebagai alat bantu sehingga manusia tidak boleh tergantung dan percaya sepenuhnya pada KA karena KA masih sangat mungkin menghasilkan output yang salah, bias, atau melakukan halusinasi, serta menganalisis konten deep fake dalam bentuk gambar, audio, atau video.",
+            "Pemanfaatan dan Pengembangan Kecerdasan Artifisial": "Menggunakan perangkat KA sederhana dengan kritis dan mampu menuliskan input bermakna ke dalam sistem KA."
+          }
+        },
+        {
+          "fase": "E",
+          "kelas": "X SMA/MA",
+          "elemen": {
+            "Berpikir Komputasional": "Menerapkan berpikir komputasional untuk memecahkan permasalahan sehari-hari yang kompleks.",
+            "Literasi Digital": "Menerapkan produksi dan diseminasi konten digital dalam bentuk sajian multimedia.",
+            "Algoritma Pemrograman": "Membandingkan beberapa algoritma dan menerapkan algoritma pemrograman untuk menghasilkan aplikasi.",
+            "Analisis Data": "Memahami konsep dasar basis data dan menerapkan pengolahan data pada basis data.",
+            "Literasi dan Etika Kecerdasan Artifisial": "Memahami bagaimana KA mengenali pola citra dan suara, dan memahami profesi di bidang KA; memahami bahwa manusia harus memikul tanggung jawab etika dan hukum atas penggunaan KA sehingga pada kondisi tertentu pengambilan keputusan tidak sepenuhnya diserahkan pada KA.",
+            "Pemanfaatan dan Pengembangan Kecerdasan Artifisial": "Menerapkan prompt engineering pada KA generatif, mengevaluasi konten berbasis KA, dan memahami AI system design melalui proses design thinking."
+          }
+        },
+        {
+          "fase": "F",
+          "kelas": "XI dan XII SMA/MA",
+          "elemen": {
+            "Berpikir Komputasional": "Menerapkan berpikir komputasional untuk memecahkan permasalahan kompleks di kehidupan masyarakat dan melakukan prediksi.",
+            "Literasi Digital": "Menerapkan produksi dan diseminasi konten digital tingkat lanjut untuk mendukung pengembangan aplikasi dan KA.",
+            "Algoritma Pemrograman": "Memahami algoritma dan menerapkan pemrograman berorientasi objek, menerapkan engineering process, dan mengembangkan aplikasi untuk perangkat IoT atau aplikasi kompleks lainnya.",
+            "Analisis Data": "Memahami data encoding, menerapkan basis data dalam pengembangan aplikasi, dan memahami mahadata.",
+            "Literasi dan Etika Kecerdasan Artifisial": "Memahami dampak KA terhadap ketenagakerjaan dan bidang lainnya. memahami bahwa pengembang KA harus bertanggung jawab dan mematuhi prinsip human-centered dan etika yang ada.",
+            "Pemanfaatan dan Pengembangan Kecerdasan Artifisial": "Memahami dasar-dasar algoritma Machine Learning, dasar-dasar Natural Language Processing, mengembangkan model KA sederhana, mengembangkan aplikasi dengan menggunakan model KA yang sudah ada, dan menyelesaikan permasalahan sederhana dalam kehidupan sehari-hari dengan menggunakan KA."
+          }
+        }
+      ]
+    },
+    {
+      "nama": "Koding dan Kecerdasan Artifisial (SMK/MAK)",
+      "capaian_per_fase": [
+        {
+          "fase": "E",
+          "kelas": "X SMK/MAK",
+          "elemen": {
+            "Berpikir Komputasional": "Menerapkan berpikir komputasional untuk memecahkan permasalahan pada objek sesuai bidang keahlian.",
+            "Literasi Digital": "Menerapkan produksi dan diseminasi konten digital dalam bentuk sajian multimedia sesuai dengan bidang keahlian.",
+            "Algoritma Pemrograman": "Membandingkan beberapa algoritma dan menerapkan algoritma pemrograman untuk menghasilkan aplikasi.",
+            "Analisis Data": "Memahami konsep dasar basis data dan menerapkan pengolahan data pada basis data.",
+            "Literasi dan Etika Kecerdasan Artifisial": "Memahami prinsip kerja teknologi kecerdasan artifisial secara tepat guna dan bertanggung jawab pada bidang keahlian dengan memperhatikan aspek etika, keamanan data dan dampak sosial penggunaannya.",
+            "Pemanfaatan dan Pengembangan Kecerdasan Artifisial": "Menerapkan prompt engineering pada KA generatif sebagai evaluasi dari pemahaman rencana proyek, desain dan pengembangan produk berupa barang/jasa."
+          }
+        },
+        {
+          "fase": "F",
+          "kelas": "XI dan XII SMK/MAK",
+          "elemen": {
+            "Berpikir Komputasional": "Menerapkan berpikir komputasional untuk memecahkan permasalahan kompleks di dunia kerja dan masyarakat serta melakukan prediksi sesuai dengan bidang keahlian.",
+            "Literasi Digital": "Menerapkan produksi dan diseminasi konten digital tingkat lanjut untuk mendukung pengembangan aplikasi dan KA sesuai dengan bidang keahlian.",
+            "Algoritma Pemrograman": "Memahami algoritma dan menerapkan pemrograman berorientasi objek pada tools koding tingkat lanjut yang berkaitan dengan pemanfaatan KA.",
+            "Analisis Data": "Memahami data encoding, menerapkan basis data untuk menyelesaikan permasalahan di dunia kerja dan masyarakat.",
+            "Literasi dan Etika Kecerdasan Artifisial": "Memahami prinsip kerja teknologi kecerdasan artifisial secara tepat guna dan bertanggungjawab di dunia kerja dan masyarakat dengan memperhatikan aspek etika, keamanan data dan dampak sosial penggunaannya.",
+            "Pemanfaatan dan Pengembangan Kecerdasan Artifisial": "Mengaktualisasikan produk KA sesuai bidang keahlian untuk memecahkan permasalahan di dunia kerja dan masyarakat."
+          }
+        }
+      ]
+    }
+  ]
+}
+```
