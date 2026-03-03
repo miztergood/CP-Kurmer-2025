@@ -1,0 +1,78 @@
+```json
+{
+  "kategori": "Mata Pelajaran Umum (SD/MI, SMP/MTs, SMA/MA)",
+  "mata_pelajaran": [
+    {
+      "nama": "Seni Tari",
+      "capaian_per_fase": [
+        {
+          "fase": "A",
+          "kelas": "I dan II SD/MI/Program Paket A",
+          "elemen": {
+            "Mengalami (Experiencing)": "Mengenal bentuk tari sebagai media komunikasi serta mengembangkan kesadaran diri dalam bereksplorasi unsur utama tari meliputi gerak, ruang, tenaga, waktu, gerak di tempat dan gerak berpindah.",
+            "Merefleksikan (Reflecting)": "Mengidentifikasi unsur utama tari meliputi gerak, ruang, tenaga, waktu, gerak di tempat dan gerak berpindah, serta mengemukakan pencapaian diri secara lisan, tulisan, dan kinestetik.",
+            "Berpikir dan Bekerja Artistik (Thinking and Working Artistically)": "Meragakan hasil gerak berdasarkan etika sebagai penampil dan penonton dengan keyakinan dan percaya diri saat mengekspresikan ide, perasaan kepada penonton atau lingkungan sekitar.",
+            "Menciptakan (Creating)": "Mengembangkan unsur utama tari (gerak, ruang, waktu, dan tenaga), gerak di tempat, dan gerak berpindah untuk membuat gerak sederhana yang memiliki kesatuan gerak yang indah.",
+            "Berdampak (Impacting)": "Menerima proses pembelajaran sehingga tumbuh rasa ingin tahu dan dapat menunjukkan antusiasme yang berdampak pada kemampuan diri dalam menyelesaikan aktivitas pembelajaran tari."
+          }
+        },
+        {
+          "fase": "B",
+          "kelas": "III dan IV SD/MI/Program Paket A",
+          "elemen": {
+            "Mengalami (Experiencing)": "Mengamati bentuk penyajian tari berdasarkan latar belakang serta mengeksplorasi unsur utama tari sesuai level gerak, dan perubahan arah hadap.",
+            "Merefleksikan (Reflecting)": "Mengidentifikasi unsur utama tari sesuai level gerak, dan perubahan arah hadap, serta menilai pencapaian diri saat melakukan aktivitas pembelajaran tari.",
+            "Berpikir dan Bekerja Artistik (Thinking and Working Artistically)": "Meragakan hasil tari dengan bekerja secara kooperatif untuk mengembangkan kemampuan bekerja sama dan saling menghargai demi tercapainya tujuan bersama.",
+            "Menciptakan (Creating)": "Mengembangkan gerak dengan unsur utama tari, level, dan perubahan arah hadap.",
+            "Berdampak (Impacting)": "Menerima proses pembelajaran sehingga tumbuh rasa ingin tahu dan dapat menunjukkan usaha yang berdampak pada kemampuan diri dalam menyelesaikan aktivitas pembelajaran tari."
+          }
+        },
+        {
+          "fase": "C",
+          "kelas": "V dan VI SD/MI/Program Paket A",
+          "elemen": {
+            "Mengalami (Experiencing)": "Mengamati berbagai bentuk tari tradisi yang dapat digunakan untuk mengekspresikan diri melalui unsur pendukung tari.",
+            "Merefleksikan (Reflecting)": "Mengidentifikasi unsur pendukung tari dalam tari tradisi serta menghargai hasil pencapaian diri dengan mempertimbangkan pendapat orang lain.",
+            "Berpikir dan Bekerja Artistik (Thinking and Working Artistically)": "Meragakan hasil rangkaian gerak tari menggunakan unsur pendukung tari dengan menunjukan kerja sama dan berperan aktif dalam kelompok.",
+            "Menciptakan (Creating)": "Merangkai gerak tari yang berpijak pada tradisi/ kreasi dengan menerapkan desain kelompok.",
+            "Berdampak (Impacting)": "Menanggapi kejadian-kejadian di lingkungan sekitar melalui tari yang disajikan kepada penonton atau masyarakat sekitar."
+          }
+        },
+        {
+          "fase": "D",
+          "kelas": "VII, VIII, dan IX SMP/MTs/Program Paket B",
+          "elemen": {
+            "Mengalami (Experiencing)": "Mengamati latar belakang, jenis, fungsi, dan nilai tari dalam konteks budaya.",
+            "Merefleksikan (Reflecting)": "Mengelompokkan jenis, fungsi, dan nilai tari berdasarkan latar belakang budaya serta mengukur hasil pencapaian karya tari.",
+            "Berpikir dan Bekerja Artistik (Thinking and Working Artistically)": "Merancang konsep tari kreasi yang merefleksikan jenis, fungsi, dan nilai dari tari tradisi dengan mempertimbangkan unsur utama dan pendukung tari.",
+            "Menciptakan (Creating)": "Membuat gerak tari kreasi berdasarkan jenis dan fungsi dari tari tradisi dengan menerapkan desain lantai dan level.",
+            "Berdampak (Impacting)": "Menghargai dan mengajak orang lain untuk mencintai dan bangga terhadap tari tradisi melalui proses kreatif yang dilakukan."
+          }
+        },
+        {
+          "fase": "E",
+          "kelas": "X SMA/MA/SMK/MAK/Program Paket C",
+          "elemen": {
+            "Mengalami (Experiencing)": "Menginterpretasi makna dan simbol pada tari tradisi/tari kreasi dalam bentuk karya seni pertunjukan.",
+            "Merefleksikan (Reflecting)": "Membandingkan makna dan simbol dengan mengapresiasi tari tradisi/tari kreasi.",
+            "Berpikir dan Bekerja Artistik (Thinking and Working Artistically)": "Merancang karya tari tradisi/tari kreasi secara individu maupun berkelompok.",
+            "Menciptakan (Creating)": "Menata gerak tari berdasarkan makna dan simbol dari tari tradisi/tari kreasi dalam bentuk karya seni pertunjukan.",
+            "Berdampak (Impacting)": "Mengaktualisasikan diri melalui pertunjukan tari."
+          }
+        },
+        {
+          "fase": "F",
+          "kelas": "XI dan XII SMA/MA/Program Paket C",
+          "elemen": {
+            "Mengalami (Experiencing)": "Mengelaborasi tari tradisi/tari kreasi berdasarkan makna, simbol, nilai estetis dari sudut pandang aspek seni sesuai dengan pengalaman dan wawasan.",
+            "Merefleksikan (Reflecting)": "Mengevaluasi hasil penciptaan karya tari dengan mengapresiasi nilai estetis tari tradisi/tari kreasi berdasarkan makna dan simbol.",
+            "Berpikir dan Bekerja Artistik (Thinking and Working Artistically)": "Mengembangkan penciptaan tari tradisi/kreasi secara individu ataupun kelompok dengan manajemen pertunjukan.",
+            "Menciptakan (Creating)": "Mengkomposisi tari yang terinspirasi dari hasil membandingkan berbagai pertunjukan tari tradisi/tari kreasi berdasarkan makna, simbol, nilai estetis.",
+            "Berdampak (Impacting)": "Memiliki karakter diri sehingga dapat mempengaruhi orang lain untuk memberikan apresiasi pertunjukan tari."
+          }
+        }
+      ]
+    }
+  ]
+}
+```
