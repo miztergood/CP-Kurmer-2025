@@ -1,0 +1,28 @@
+```json
+{
+  "kategori": "Mata Pelajaran Umum (SD/MI, SMP/MTs, SMA/MA)",
+  "mata_pelajaran": [
+    {
+      "nama": "Ilmu Pengetahuan Sosial (IPS)",
+      "capaian_per_fase": [
+        {
+          "fase": "D",
+          "kelas": "VII, VIII, IX SMP/MTs/Program Paket B",
+          "elemen": {
+            "Pemahaman Konsep": "Menjelaskan keberagaman kondisi geografis Indonesia, konektivitas antarruang terhadap upaya pemanfaatan dan pelestarian potensi sumber daya alam, faktor aktivitas manusia terhadap perubahan iklim dan potensi bencana alam; memprediksi dampak perubahan iklim terhadap kehidupan ekonomi, sosial, budaya masyarakat serta merefleksikan pola adaptasi terhadap perubahan iklim dan upaya mitigasi bencana untuk menunjang sustainable development goals (SDGs) dalam konteks lokal, regional, dan global; mengidentifikasi upaya masyarakat dalam memenuhi kebutuhannya melalui kegiatan ekonomi, harga, pasar, lembaga keuangan, perdagangan internasional; menelaah peran masyarakat dan negara dalam mendorong pertumbuhan ekonomi di era digital, serta potensi Indonesia menjadi negara maju; mengelaborasi proses interaksi sosial, lembaga sosial, dinamika sosial dan perubahan sistem sosial budaya dalam masyarakat yang majemuk untuk mewujudkan integrasi bangsa dengan prinsip kebhinekaan; menjelaskan konsep dasar ilmu sejarah yaitu manusia, ruang, waktu, kronologi, perubahan; menganalisis keterhubungan antara masa lampau, masa kini, dan masa yang akan datang ketika mempelajari sejarah lokal dan toponimi wilayah serta berbagai peristiwa atau kejadian penting dalam lingkup lokal, nasional dan global terkait asal-usul nenek moyang bangsa Indonesia dan jalur rempah nusantara.",
+            "Keterampilan Proses": "Menerapkan pemahaman konsep melalui pendekatan keterampilan proses dengan cara mengamati fenomena dan peristiwa secara sistematis dengan menggunakan pancaindra serta menemukan persamaan dan perbedaannya; menanya dengan panduan pendidik, mengajukan pertanyaan untuk menggali dan klarifikasi informasi, serta mencari tahu penyebab dan memprediksinya; mengumpulkan informasi secara berkolaborasi, merencanakan dan melakukan penyelidikan, mengumpulkan informasi dengan sumber primer, dan mendokumentasikannya; berkolaborasi, mengolah informasi yang relevan serta memprioritaskan beberapa gagasan tertentu; menguji dan menerapkan konsep melalui eksperimen, simulasi, studi kasus, atau situasi nyata untuk memperkuat pemahaman dan keterampilan; mengevaluasi dan merefleksi serta melakukan perbaikan untuk menarik simpulan hasil penyelidikan dengan tepat; mengomunikasikan dan menyajikan hasil penyelidikan dengan menggunakan media informasi yang tepat; dan menyusun rencana tidak lanjut dari hasil penyelidikan yang telah dihasilkan secara kolaboratif."
+          }
+        },
+        {
+          "fase": "E",
+          "kelas": "X SMA/MA",
+          "elemen": {
+            "Pemahaman Konsep": "Menjelaskan konsep dasar geografi, fenomena geografi fisik melalui litosfer, atmosfer, dan hidrosfer sebagai ruang hidup, serta mengimplementasikan teknologi geospasial berupa peta, penginderaan jauh dan Sistem Informasi Geografis (SIG); menelaah hakikat ilmu ekonomi sebagai ilmu yang mempelajari upaya manusia dalam memenuhi kebutuhan hidupnya; membedakan produk keuangan bank dan nonbank sebagai dasar dalam menggunakan produk dan layanan, risiko keuangan dan menyusun laporan keuangan pribadi; menjelaskan fungsi sosiologi sebagai ilmu yang secara kritis, analitis, kreatif, dan solutif mengkaji masyarakat; menelaah status dan peran individu dalam kelompok sosial dan memberikan contoh berbagai ragam gejala sosial yang ada di dalam masyarakat; menganalisis keragaman manusia dan budayanya sebagai bagian dari masyarakat multikultural; dan menelaah konsep dasar ilmu sejarah dan mengimplementasikan penelitian sejarah untuk merefleksikan keterhubungan antara masa lampau, masa kini, dan masa yang akan datang melalui berbagai peristiwa atau kejadian penting dalam lingkup lokal, nasional dan global mulai dari masa kerajaan Hindu-Buddha hingga masa kerajaan Islam.",
+            "Keterampilan Proses": "Mengamati fenomena kehidupan manusia dalam dimensi ruang dan waktu secara sistematis serta menemukan persamaan dan perbedaannya dan potensinya; membuat pertanyaan secara mandiri untuk menggali informasi tentang fenomena kehidupan manusia dalam dimensi ruang dan waktu secara sistematis; mengumpulkan informasi dari sumber primer dan/atau sekunder, melakukan observasi, dan mendokumentasikannya; menarik simpulan berdasarkan dari informasi yang diperoleh dari sumber primer dan/atau sekunder, hasil observasi dan hasil dokumentasi; mengomunikasikan hasil analisis informasi yang diperoleh dari sumber primer dan/atau sekunder, data hasil observasi, dan hasil dokumentasi dalam bentuk media digital dan/atau non digital; dan merefleksikan hasil analisis informasi yang diperoleh dari sumber primer dan/atau sekunder, hasil observasi, dan hasil dokumentasi serta menyusun rencana tindak lanjut."
+          }
+        }
+      ]
+    }
+  ]
+}
+```
