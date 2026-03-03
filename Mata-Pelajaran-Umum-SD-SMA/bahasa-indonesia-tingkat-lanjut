@@ -1,0 +1,21 @@
+```json
+{
+  "kategori": "Mata Pelajaran Umum (SD/MI, SMP/MTs, SMA/MA)",
+  "mata_pelajaran": [
+    {
+      "nama": "Bahasa Indonesia Tingkat Lanjut",
+      "capaian_per_fase": [
+        {
+          "fase": "F",
+          "kelas": "XI dan XII SMA/MA/Program Paket C",
+          "elemen": {
+            "Menyimak": "Mengevaluasi teks nonsastra berbentuk teks aural yang digunakan dalam konteks sosial, akademis, dan dunia kerja; dan mengapresiasi teks sastra Indonesia dan teks sastra dunia berbentuk teks aural dan teks audio.",
+            "Membaca dan Memirsa": "Mengevaluasi berbagai teks yang digunakan dalam konteks sosial, akademis, dan/atau dunia kerja berbentuk cetak dan digital; dan mengapresiasi teks sastra Indonesia dan teks sastra dunia yang dibaca dan dipirsa.",
+            "Berbicara dan Mempresentasikan": "Mempresentasikan berbagai teks dalam konteks sosial, akademis, dan/atau dunia kerja dalam berbagai media; dan mempresentasikan teks sastra Indonesia dan teks sastra dunia dalam bentuk digital atau pertunjukan.",
+            "Menulis": "Menulis berbagai tipe teks dalam konteks sosial, akademis, dan dunia kerja; memodifikasi teks sastra Indonesia dan teks sastra dunia ke dalam bentuk multimedia lisan/cetak atau digital; dan mempublikasikan hasil karya baik di media cetak maupun digital."
+          }
+        }
+      ]
+    }
+  ]
+}
