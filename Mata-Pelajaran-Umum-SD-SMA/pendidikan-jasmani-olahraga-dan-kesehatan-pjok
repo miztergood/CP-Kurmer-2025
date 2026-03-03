@@ -1,0 +1,72 @@
+```json
+{
+  "kategori": "Mata Pelajaran Umum (SD/MI, SMP/MTs, SMA/MA)",
+  "mata_pelajaran": [
+    {
+      "nama": "Pendidikan Jasmani, Olahraga, dan Kesehatan (PJOK)",
+      "capaian_per_fase": [
+        {
+          "fase": "A",
+          "kelas": "I dan II SD/MI/Program Paket A",
+          "elemen": {
+            "Terampil Bergerak": "Mempraktikkan keterampilan gerak fundamental dan menerapkannya dalam berbagai situasi gerak yang berbeda; mengeksplorasi berbagai strategi gerak; dan mengeksplorasi berbagai konsep gerak serta menyimpulkan efektivitasnya.",
+            "Belajar Melalui Gerak": "Menaati peraturan untuk menumbuhkan fair play di dalam berbagai aktivitas jasmani; menerapkan strategi kolaborasi ketika berpartisipasi dalam aktivitas jasmani.",
+            "Bergaya Hidup Aktif": "Berpartisipasi di dalam berbagai aktivitas jasmani dan mengidentifikasi manfaatnya.",
+            "Memilih Hidup yang Menyehatkan": "Mengenali gaya hidup aktif dan sehat; mengenali manfaat komponen makanan bergizi seimbang; serta mengenali situasi dan potensi yang berisiko terhadap kesehatan dan keselamatan serta strategi mencari bantuan kepada orang dewasa terpercaya."
+          }
+        },
+        {
+          "fase": "B",
+          "kelas": "III dan IV SD/MI/Program Paket A",
+          "elemen": {
+            "Terampil Bergerak": "Menghaluskan keterampilan gerak fundamental dan menerapkannya dalam situasi gerak yang baru; menyesuaikan strategi gerak untuk mendapatkan capaian keterampilan gerak; dan memperagakan berbagai konsep gerak yang dapat diterapkan dalam rangkaian gerak.",
+            "Belajar Melalui Gerak": "Menerapkan strategi gerak sederhana dan memecahkan masalah gerak; menerapkan peraturan untuk menumbuhkan fair play di dalam berbagai aktivitas jasmani; dan berpartisipasi secara positif dalam kelompok atau tim di dalam berbagai aktivitas jasmani.",
+            "Bergaya Hidup Aktif": "Berpartisipasi dalam berbagai aktivitas jasmani dan mengenali faktor-faktor yang menyebabkan aktivitas jasmani menyenangkan.",
+            "Memilih Hidup yang Menyehatkan": "Mengenali risiko kesehatan akibat gaya hidup dan berbagai aktivitas jasmani untuk pencegahannya; mengidentifikasi pola makan sehat dan bergizi seimbang sesuai rekomendasi kesehatan untuk menunjang aktivitas sehari-hari; dan mempraktikkan penanganan cedera ringan sesuai pemahaman tentang prinsip pertolongan pertama."
+          }
+        },
+        {
+          "fase": "C",
+          "kelas": "V dan VI SD/MI/Program Paket A",
+          "elemen": {
+            "Terampil Bergerak": "Menyesuaikan keterampilan gerak melintasi berbagai situasi gerak; mentransfer strategi gerak yang sudah dikuasai ke dalam berbagai situasi gerak yang berbeda; dan menginvestigasi berbagai konsep gerak yang dapat diterapkan untuk meningkatkan capaian keterampilan gerak.",
+            "Belajar Melalui Gerak": "Menguji efektivitas penerapan strategi gerak dalam berbagai situasi gerak; merancang peraturan alternatif dan modifikasi permainan untuk mendukung fair play dan partisipasi inklusif; dan menjalankan berbagai peran untuk mencapai keberhasilan kelompok atau tim di dalam berbagai aktivitas jasmani.",
+            "Bergaya Hidup Aktif": "Berpartisipasi dalam aktivitas jasmani dan menjelaskan pengaruh aktivitas jasmani yang teratur terhadap kesehatan; mengidentifikasi rekomendasi aktivitas jasmani serta pencegahan perilaku sedenter.",
+            "Memilih Hidup yang Menyehatkan": "Mengidentifikasi dan menghubungkan antara gaya hidup, risiko kesehatan, dan aktivitas pencegahannya sesuai rekomendasi otoritas kesehatan; menjelaskan pola makan sehat untuk menunjang aktivitas jasmani berdasarkan informasi kandungan gizi pada makanan; dan mempraktikkan penanganan cedera sedang sesuai pemahaman tentang prinsip pertolongan pertama."
+          }
+        },
+        {
+          "fase": "D",
+          "kelas": "VII, VIII dan IX SMP/MTs/Program Paket B",
+          "elemen": {
+            "Terampil Bergerak": "Menerapkan keterampilan gerak serta mentransfernya ke dalam berbagai situasi gerak; memperagakan strategi gerak yang dapat dimanfaatkan untuk meningkatkan capaian keterampilan gerak.",
+            "Belajar Melalui Gerak": "Membuktikan strategi gerak yang paling efektif dalam situasi gerak yang berbeda; menginvestigasi modifikasi peraturan yang mendukung fair play dan partisipasi inklusif; menerapkan kepemimpinan, kolaborasi, dan pengambilan keputusan kelompok ketika berpartisipasi di dalam berbagai aktivitas jasmani.",
+            "Bergaya Hidup Aktif": "Berpartisipasi dalam aktivitas jasmani dan menjelaskan reaksi tubuh terhadap berbagai tingkat intensitas yang berbeda; menjelaskan strategi peningkatan aktivitas jasmani dan pencegahan perilaku sedenter.",
+            "Memilih Hidup yang Menyehatkan": "Menganalisis risiko kesehatan akibat gaya hidup dan merancang tindakan pencegahan melalui aktivitas jasmani berdasarkan rekomendasi otoritas kesehatan; merancang pola makan sehat berdasarkan analisis kandungan gizi sesuai kebutuhan aktivitas jasmani; serta mempraktikkan prosedur untuk menangani cedera yang berisiko terhadap kesehatan dan keselamatan berdasarkan prinsip pertolongan pertama."
+          }
+        },
+        {
+          "fase": "E",
+          "kelas": "X SMA/MA/SMK/MAK/Program Paket C",
+          "elemen": {
+            "Terampil Bergerak": "Menerapkan keterampilan gerak spesifik di dalam berbagai situasi gerak yang menantang; mengembangkan strategi gerak untuk mendapatkan keberhasilan capaian keterampilan gerak melintasi berbagai situasi gerak yang menantang.",
+            "Belajar Melalui Gerak": "Merefleksikan transfer strategi gerak yang telah dikuasai dalam situasi gerak yang berbeda; memperagakan fair play dan mengevaluasi pengaruh perilaku etis terhadap capaian aktivitas jasmani bagi individu dan kelompok; serta menerapkan strategi pengambilan keputusan dalam kerja tim yang mempertunjukkan keterampilan kepemimpinan dan kolaborasi.",
+            "Bergaya Hidup Aktif": "Berpartisipasi dalam aktivitas kebugaran dan menginvestigasi dampak partisipasi yang teratur terhadap kesehatan; merancang strategi peningkatan aktivitas kebugaran untuk kesehatan.",
+            "Memilih Hidup yang Menyehatkan": "Mengevaluasi risiko kesehatan akibat gaya hidup dan tindakan pencegahan melalui aktivitas jasmani serta mempromosikannya menggunakan berbagai media; mengevaluasi pola makan sehat berdasarkan analisis kandungan gizi sesuai kebutuhan aktivitas jasmani. murid mempraktikkan pertolongan pertama."
+          }
+        },
+        {
+          "fase": "F",
+          "kelas": "XI dan XII SMA/MA/SMK/MAK/Program Paket C",
+          "elemen": {
+            "Terampil Bergerak": "Mengevaluasi keterampilan gerak spesifik di dalam berbagai situasi gerak yang menantang untuk meningkatkan kinerja gerak; mengevaluasi strategi gerak untuk mendapatkan keberhasilan capaian keterampilan gerak melintasi berbagai situasi gerak yang menantang.",
+            "Belajar Melalui Gerak": "Mengevaluasi strategi gerak yang telah dikuasai dalam situasi gerak baru yang menantang; mengevaluasi fair play dan merefleksikan pengaruh perilaku etis terhadap capaian aktivitas jasmani bagi individu dan kelompok; dan mengevaluasi strategi pengambilan keputusan dalam kerja tim yang mempertunjukkan keterampilan kepemimpinan dan kolaborasi.",
+            "Bergaya Hidup Aktif": "Berpartisipasi dalam aktivitas kebugaran dan mengevaluasi dampak partisipasi yang teratur terhadap kesehatan; mengevaluasi efektivitas strategi peningkatan aktivitas kebugaran untuk kesehatan.",
+            "Memilih Hidup yang Menyehatkan": "Mengadvokasi gaya hidup aktif dan sehat melalui aktivitas jasmani menggunakan berbagai media; mengadvokasi pola makan sehat dan bergizi seimbang kepada orang lain sesuai kebutuhan aktivitas jasmaninya; dan mempraktikkan tindakan penyelamatan hidup."
+          }
+        }
+      ]
+    }
+  ]
+}
+```
