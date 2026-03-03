@@ -1,0 +1,71 @@
+{
+  "kategori": "Mata Pelajaran Umum (SD/MI, SMP/MTs, SMA/MA)",
+  "mata_pelajaran": [
+    {
+      "nama": "Pendidikan Pancasila",
+      "capaian_per_fase": [
+        {
+          "fase": "A",
+          "kelas": "I dan II SD/MI/Program Paket A",
+          "elemen": {
+            "Pancasila": "Mengenal bendera negara, lagu kebangsaan, simbol dan sila-sila Pancasila dalam lambang negara Garuda Pancasila dan simbol Pancasila beserta sila-sila Pancasila; menerapkan nilai-nilai Pancasila di lingkungan keluarga.",
+            "Undang-Undang Dasar Negara Republik Indonesia Tahun 1945": "Mengenal aturan di lingkungan keluarga; menunjukkan dan menceritakan sikap mematuhi aturan di lingkungan keluarga.",
+            "Bhinneka Tunggal Ika": "Mengenal semboyan Bhinneka Tunggal Ika; mengidentifikasi dan menghargai identitas dirinya sesuai dengan jenis kelamin, hobi, bahasa, serta agama dan kepercayaan di lingkungan sekitar.",
+            "Negara Kesatuan Republik Indonesia": "Mengenal karakteristik lingkungan tempat tinggal dan sekolah, sebagai bagian dari wilayah Negara Kesatuan Republik Indonesia; menceritakan dan mempraktikkan bekerja sama menjaga lingkungan sekitar dalam keberagaman."
+          }
+        },
+        {
+          "fase": "B",
+          "kelas": "III dan IV SD/MI/Program Paket A",
+          "elemen": {
+            "Pancasila": "Mengidentifikasi makna sila-sila Pancasila, dan penerapannya dalam kehidupan sehari-hari; mengenal karakter para perumus Pancasila; menunjukkan sikap bangga menjadi anak Indonesia yang memiliki bahasa Indonesia sebagai bahasa persatuan di lingkungan sekitar.",
+            "Undang-Undang Dasar Negara Republik Indonesia Tahun 1945": "Mengidentifikasi dan melaksanakan aturan di sekolah dan lingkungan tempat tinggal; mengidentifikasi dan menerapkan hak yang didapat dan kewajiban sebagai anggota keluarga dan sebagai warga sekolah.",
+            "Bhinneka Tunggal Ika": "Membedakan dan menghargai identitas, keluarga, dan teman-temannya sesuai budaya, suku bangsa, bahasa, agama dan kepercayaannya di lingkungan sekitar.",
+            "Negara Kesatuan Republik Indonesia": "Mengidentifikasi lingkungan tempat tinggal (RT, RW, desa atau kelurahan, dan kecamatan) sebagai bagian dari wilayah Negara Kesatuan Republik Indonesia; menunjukkan perilaku bekerja sama dalam berbagai bentuk keberagaman suku bangsa, sosial, dan budaya di Indonesia yang terikat persatuan dan kesatuan di lingkungan sekitar."
+          }
+        },
+        {
+          "fase": "C",
+          "kelas": "V dan VI SD/MI/Program Paket A",
+          "elemen": {
+            "Pancasila": "Memahami kronologi sejarah kelahiran Pancasila; meneladani sikap para perumus Pancasila dan menerapkan di lingkungan masyarakat; menghubungkan sila-sila dalam Pancasila sebagai suatu kesatuan yang utuh; menguraikan makna nilai-nilai Pancasila sebagai dasar negara, dan pandangan hidup bangsa.",
+            "Undang-Undang Dasar Negara Republik Indonesia Tahun 1945": "Mengimplementasikan bentuk-bentuk norma, hak, dan kewajiban dalam kedudukannya sebagai warga negara; mengenal Pembukaan Undang-Undang Dasar Negara Republik Indonesia tahun 1945; mempraktikkan musyawarah untuk membuat kesepakatan dan aturan bersama, serta menerapkannya dalam lingkungan keluarga dan sekolah.",
+            "Bhinneka Tunggal Ika": "Menyajikan hasil identifikasi sikap menghormati, menjaga, dan melestarikan keberagaman budaya sesuai semboyan dalam bingkai Bhinneka Tunggal Ika di lingkungan sekitar.",
+            "Negara Kesatuan Republik Indonesia": "Mengenal wilayahnya dalam konteks kabupaten/kota, dan provinsi sebagai bagian dari wilayah Negara Kesatuan Republik Indonesia; menunjukkan perilaku gotong royong untuk menjaga persatuan di lingkungan sekolah dan sekitar sebagai wujud bela negara."
+          }
+        },
+        {
+          "fase": "D",
+          "kelas": "VII, VIII dan IX SMP/MTs/Program Paket B",
+          "elemen": {
+            "Pancasila": "Memahami sejarah kelahiran Pancasila; memahami kedudukan Pancasila sebagai dasar negara, pandangan hidup bangsa, dan ideologi negara serta penerapannya dalam kehidupan sehari-hari; memahami makna keterkaitan Pancasila dengan Undang-Undang Dasar Negara Republik Indonesia Tahun 1945, Bhinneka Tunggal Ika, dan Negara Kesatuan Republik Indonesia.",
+            "Undang-Undang Dasar Negara Republik Indonesia Tahun 1945": "Menerapkan norma dan aturan; memahami tata urutan peraturan perundang-undangan yang berlaku di Indonesia; menggunakan hak dan menerapkan kewajiban sebagai warga negara; memahami sejarah, fungsi, dan kedudukan Undang-Undang Dasar Negara Republik Indonesia Tahun 1945; mempraktikkan kemerdekaan berpendapat sebagai warga negara dalam era keterbukaan informasi.",
+            "Bhinneka Tunggal Ika": "Mengidentifikasi keberagaman suku bangsa, agama dan kepercayaan, ras, dan antargolongan dalam bingkai Bhinneka Tunggal Ika dan menerima keberagaman dalam kehidupan bermasyarakat; memahami pentingnya pelestarian tradisi, kearifan lokal, dan budaya daerah sebagai identitas nasional; menumbuhkan sikap tanggung jawab dan berperan aktif melestarikan praktik tradisi, kearifan lokal, dan budaya daerah dalam masyarakat global.",
+            "Negara Kesatuan Republik Indonesia": "Memahami Proklamasi Kemerdekaan Republik Indonesia; memahami wilayah Negara Kesatuan Republik Indonesia dalam konteks wawasan nusantara; berpartisipasi aktif untuk menjaga keutuhan wilayah Negara Kesatuan Republik Indonesia."
+          }
+        },
+        {
+          "fase": "E",
+          "kelas": "X SMA/MA/SMK/MAK/Program Paket C",
+          "elemen": {
+            "Pancasila": "Menganalisis cara pandang para perumus Pancasila tentang dasar negara; menganalisis kedudukan Pancasila sebagai dasar negara, pandangan hidup bangsa, dan ideologi negara.",
+            "Undang-Undang Dasar Negara Republik Indonesia Tahun 1945": "Menerapkan perilaku taat hukum berdasarkan peraturan yang berlaku untuk mewujudkan harmoni dengan sesama manusia dan lingkungan; menganalisis tata urutan peraturan perundang-undangan di Indonesia; menganalisis makna kedudukan Pancasila sebagai sumber dari segala sumber hukum negara.",
+            "Bhinneka Tunggal Ika": "Menyajikan makna semboyan Bhinneka Tunggal Ika sebagai modal sosial; dan memahami prinsip gotong royong sebagai perwujudan sistem ekonomi Pancasila yang inklusif dan berkeadilan.",
+            "Negara Kesatuan Republik Indonesia": "Memahami peran dan kedudukannya sebagai warga Negara Indonesia; memahami sistem pertahanan dan keamanan negara; menganalisis peran Indonesia dalam hubungan antarnegara; serta memahami nilai-nilai Pancasila dalam konteks pembangunan nasional."
+          }
+        },
+        {
+          "fase": "F",
+          "kelas": "XI dan XII SMA/MA/SMK/MAK/Program Paket C",
+          "elemen": {
+            "Pancasila": "Mendeskripsikan rumusan dan keterkaitan sila-sila dalam Pancasila; menganalisis peluang dan tantangan penerapan nilai-nilai Pancasila dalam kehidupan global dalam konteks Pancasila sebagai ideologi negara dan membiasakan perilaku yang sesuai dengan nilai-nilai Pancasila sebagai identitas nasional dalam kehidupan sehari-hari.",
+            "Undang-Undang Dasar Negara Republik Indonesia Tahun 1945": "Menganalisis dinamika pemberlakuan Undang-Undang Dasar 1945; menunjukkan sikap demokratis berdasarkan Undang-Undang Dasar Negara Republik Indonesia Tahun 1945 dalam era keterbukaan informasi; menganalisis kasus pelanggaran hak dan pengingkaran kewajiban warga negara dan merumuskan solusi dari permasalahan tersebut sebagai upaya perlindungan hukum; menganalisis makna kesatuan Pancasila dengan Undang-Undang Dasar Negara Republik Indonesia Tahun 1945.",
+            "Bhinneka Tunggal Ika": "Menganalisis potensi konflik dan memberi solusi yang berkeadilan terhadap permasalahan keberagaman di masyarakat; merancang kegiatan bersama dengan prinsip gotong royong dalam praktik hidup sehari-hari.",
+            "Negara Kesatuan Republik Indonesia": "Mendemonstrasikan praktik demokrasi berlandaskan Pancasila dalam kehidupan berbangsa dan bernegara; menganalisis dan merumuskan solusi terkait ancaman, tantangan, hambatan, dan gangguan (ATHG) yang dihadapi Indonesia; menganalisis sistem pemerintahan Indonesia, dan peran lembaga-lembaga negara dalam bidang politik, ekonomi, sosial, budaya, pertahanan dan keamanan."
+          }
+        }
+      ]
+    }
+  ]
+}
+```
