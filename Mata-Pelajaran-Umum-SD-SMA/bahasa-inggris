@@ -1,0 +1,57 @@
+```json
+{
+  "kategori": "Mata Pelajaran Umum (SD/MI, SMP/MTs, SMA/MA)",
+  "mata_pelajaran": [
+    {
+      "nama": "Bahasa Inggris",
+      "capaian_per_fase": [
+        {
+          "fase": "B",
+          "kelas": "III dan IV SD/MI/Program Paket A",
+          "elemen": {
+            "Menyimak - Berbicara (Listening - Speaking)": "Memahami dan merespon teks lisan atau teks multimodal sederhana tentang kehidupan sehari-hari baik secara verbal atau non-verbal sesuai konteks. (understand and respond to simple oral or multimodal texts about everyday life verbally or non-verbally in line with its context)",
+            "Membaca - Memirsa (Reading - Viewing)": "Memahami teks tulis pendek sederhana atau teks multimodal tentang kehidupan sehari-hari dan meresponsnya secara verbal atau non-verbal sesuai konteks. (Understand simple short texts or multimodal texts about everyday life and respond to them verbally or non-verbally in line with its context)",
+            "Menulis - Mempresentasikan (Writing - Presenting)": "Mengomunikasikan gagasan tentang topik sehari-hari dalam teks tulis pendek atau teks multimodal sesuai konteks. (Communicate their ideas on everyday life topics in simple written or multimodal texts in line with its context)"
+          }
+        },
+        {
+          "fase": "C",
+          "kelas": "V dan VI SD/MI/Program Paket A",
+          "elemen": {
+            "Menyimak - Berbicara (Listening - Writing)": "Memahami alur informasi teks secara keseluruhan dan merespon teks lisan atau teks multimodal sederhana tentang topik sehari-hari secara lisan dengan kalimat pendek dan sederhana sesuai konteks. (Understand the entire flow of information and respond to simple oral or multimodal texts about everyday topics using short and simple sentences verbally in line with its context)",
+            "Membaca - Memirsa (Reading - Viewing)": "Memahami alur informasi secara keseluruhan, gagasan utama dan informasi rinci dari beragam teks pendek atau teks multimodal tentang topik sehari-hari dan meresponnya sesuai konteks. (Understand the entire flow of information, main ideas and details from a variety of short texts or multimodal texts about everyday topics and respond in line with its context)",
+            "Menulis - Mempresentasikan (Writing - Presenting)": "Mengomunikasikan ide dan pengalamannya melalui berbagai jenis teks tulis sederhana atau teks multimodal tentang topik sehari-hari sesuai konteks. (Communicate their ideas and experiences through various types of simple written texts or multimodal texts about everyday topics in line with its context)"
+          }
+        },
+        {
+          "fase": "D",
+          "kelas": "VII, VIII dan IX SMP/MTs/Program Paket B",
+          "elemen": {
+            "Menyimak - Berbicara (Listening - Speaking)": "Memahami alur informasi secara keseluruhan, gagasan utama dan informasi rinci dari teks lisan tentang topik sehari-hari atau yang sesuai dengan minat; menggunakan bahasa Inggris untuk mengungkapkan gagasan dan pengalaman dalam berbagai jenis teks secara lisan tentang topik yang dibahas dengan menggunakan kalimat sederhana dan majemuk baik formal maupun informal sesuai konteks. (Understand the entire flow of information, main ideas and details of oral texts about everyday topics or topics of interest; using English to express ideas and experiences in various types of texts orally about the topics discussed using simple and compound sentences, both formally and informally in line with its context)",
+            "Membaca - Memirsa (Reading - Viewing)": "Memahami alur informasi, informasi tersurat dan tersirat dari berbagai jenis teks tertulis atau teks multimodal tentang topik sehari-hari atau yang sesuai dengan minat dan meresponnya sesuai konteks. (Understand the entire flow of information, explicit and implicit information from various types of written or multimodal texts about everyday topics or topics of interest and respond in line with its context)",
+            "Menulis - Mempresentasikan (Writing - Presenting)": "Mengomunikasikan gagasan dan pengalaman mereka dalam berbagai jenis teks secara tertulis atau teks multimodal tentang topik sehari-hari atau yang sesuai dengan minat dengan mulai menggunakan kalimat sederhana dan majemuk dengan struktur teks dan unsur kebahasaan yang tepat; mengungkapkan pendapat dan mempertahankan argumen tentang suatu isu terkait topik sehari-hari atau yang sesuai dengan minat. (Communicate their ideas and experiences in various types of texts, in written or multimodal texts, about everyday topics or topics of interest, by starting to use simple and compound sentences with appropriate text structures and language features; express their opinions and defend their arguments on issues related to daily topics or topics of interests)"
+          }
+        },
+        {
+          "fase": "E",
+          "kelas": "X SMA/SMK/MA/MAK/Program Paket C",
+          "elemen": {
+            "Menyimak - Berbicara (Listening - Speaking)": "Memahami alur informasi secara keseluruhan, gagasan utama dan detail dalam teks lisan fiksi dan non fiksi mengenai berbagai macam topik yang relevan dengan topik sehari-hari atau isu terkini; menggunakan bahasa Inggris untuk mengungkapkan pendapat dan mempertahankan argumen tentang topik yang dibahas. (Understand the entire flow of information, the main idea and details in fiction and nonfiction spoken texts about various topics relevant to everyday topics or current issues; using English to express their opinions and defend their arguments about the topics discussed)",
+            "Membaca - Memirsa (Reading - Viewing)": "Memahami alur informasi secara keseluruhan, menganalisis dan menyimpulkan informasi tersurat dan tersirat dari berbagai jenis teks fiksi dan non fiksi tertulis atau teks multimodal tentang topik sehari-hari atau isu terkini. (Understand the entire flow of information, analyze and infer explicit and implicit information in fiction and nonfiction from written and multimodal texts about everyday topics or current issues)",
+            "Menulis - Mempresentasikan (Writing - Presenting)": "Mengomunikasikan gagasan dan pengalaman mereka secara tertulis atau multimodal dalam berbagai jenis teks fiksi dan nonfiksi dengan menggunakan berbagai media presentasi (cetak atau digital) untuk mencapai tujuan tertentu dengan struktur teks dan unsur kebahasaan yang tepat; mengungkapkan pendapat dan mempertahankan argumen tentang topik sehari-hari atau isu terkini. (Communicate their ideas and experiences in written or multimodal texts in fiction and nonfiction texts using different media of presentation (print and digital) to achieve specific goals with appropriate text structures and language features; express their opinions and defend their arguments about everyday topics or current issues)"
+          }
+        },
+        {
+          "fase": "F",
+          "kelas": "XI dan XII SMA/SMK/MA/MAK/Program Paket C",
+          "elemen": {
+            "Menyimak - Berbicara (Listening - Speaking)": "Memahami alur informasi secara keseluruhan dari teks lisan fiksi dan non fiksi tentang isu terkini atau topik terkait mata pelajaran lain; menggunakan bahasa Inggris untuk mengungkapkan pendapat dan mempertahankan argumen tentang topik yang dibahas. (Understand the entire flow of information in fiction and nonfiction spoken texts about current issues or topics related to other subjects; students use English to express their opinions and defend their arguments about the topics discussed)",
+            "Membaca - Memirsa (Reading - Viewing)": "Mengevaluasi informasi tersurat dan tersirat dari berbagai jenis teks fiksi dan non fiksi tertulis atau teks multimodal tentang isu terkini atau topik yang terkait mata pelajaran lain. (Evaluate explicit and implicit information in fiction and nonfiction from written and multimodal texts about current issues or topics related to other subjects)",
+            "Menulis - Mempresentasikan (Writing - Presenting)": "Mengomunikasikan gagasan atau pengalaman secara tertulis atau multimodal dalam berbagai jenis teks fiksi dan nonfiksi dengan struktur teks dan unsur kebahasaan yang tepat dan kompleks dengan menggunakan berbagai media presentasi (cetak dan digital) untuk mencapai tujuan yang berbeda-beda; menunjukkan strategi koreksi dalam kaidah menulis baik dengan bantuan pendidik maupun mandiri; mengungkapkan pendapat dan mempertahankan argumen tentang isu terkini atau topik yang terkait mata pelajaran lain. (Communicate ideas or experiences in written or multimodal texts in fiction and nonfiction texts with appropriate and complex text structures and language features, using different media of presentation (print and digital) to achieve different purposes; demonstrate correction strategies in writing conventions with the help of a teacher or independently; express their opinions and defend their arguments on current issues or topics related to other subjects)"
+          }
+        }
+      ]
+    }
+  ]
+}
+```
