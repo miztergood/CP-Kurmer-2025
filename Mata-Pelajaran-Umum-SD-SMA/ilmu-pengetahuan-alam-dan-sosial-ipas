@@ -1,0 +1,28 @@
+```json
+{
+  "kategori": "Mata Pelajaran Umum (SD/MI, SMP/MTs, SMA/MA)",
+  "mata_pelajaran": [
+    {
+      "nama": "Ilmu Pengetahuan Alam dan Sosial (IPAS)",
+      "capaian_per_fase": [
+        {
+          "fase": "B",
+          "kelas": "III dan IV SD/MI/Program Paket A",
+          "elemen": {
+            "Pemahaman IPAS": "Menjelaskan bentuk dan fungsi pancaindra; menganalisis siklus hidup makhluk hidup dan upaya pelestariannya; menghasilkan solusi untuk masalah yang berkaitan dengan pelestarian sumber daya alam sebagai upaya mitigasi perubahan iklim; menyimpulkan proses perubahan wujud zat; menjelaskan sumber dan bentuk energi, serta proses perubahan bentuk energi dalam kehidupan sehari-hari; membedakan jenis gaya dan pengaruhnya terhadap arah, gerak, dan bentuk benda; menjelaskan peran, tugas, dan tanggung jawab serta interaksi sosial yang terjadi di sekitar tempat tinggal dan sekolah; mengenali letak kabupaten/kota dan provinsi tempat tinggalnya dengan menggunakan peta konvensional/digital; mengklasifikasikan ragam bentang alam dan keterkaitannya dengan profesi masyarakat, ragam budaya serta upaya untuk melestarikannya; menganalisis sejarah masyarakat di lingkungan tempat tinggal; menjelaskan nilai mata uang dan fungsinya, serta cara mengelola keuangan secara bijak.",
+            "Keterampilan Proses": "Mampu menerapkan keterampilan proses yang meliputi: Mengamati: Murid mengamati fenomena dan peristiwa secara sederhana dan dapat mencatat hasil pengamatannya. Mempertanyakan dan Memprediksi: Secara mandiri, murid mengajukan pertanyaan tentang hal-hal yang ingin diketahui saat melakukan pengamatan dan membuat prediksi berdasarkan pengetahuan yang dimiliki sebelumnya. Merencanakan dan Melakukan Penyelidikan: Dengan panduan pendidik, murid membuat rencana dan melakukan langkah-langkah operasional untuk menjawab pertanyaan yang diajukan. Murid melakukan observasi menggunakan alat bantu pengukuran sederhana. Memproses, Menganalisis Data dan Informasi: Dengan panduan pendidik, murid mengorganisasikan data dalam bentuk turus dan diagram gambar untuk menyajikan dan mengidentifikasi pola. Murid membandingkan antara hasil pengamatan dengan prediksi dan memberikan penjelasan. Mengevaluasi dan Refleksi: Murid melakukan refleksi terhadap penyelidikan yang sudah dilakukan. Mengomunikasikan Hasil: Murid mengomunikasikan hasil penyelidikan secara lisan dan tertulis dalam berbagai media."
+          }
+        },
+        {
+          "fase": "C",
+          "kelas": "V dan VI SD/MI/Program Paket A",
+          "elemen": {
+            "Pemahaman IPAS": "Merefleksikan sistem organ tubuh manusia yang dikaitkan dengan cara menjaga kesehatan tubuhnya; menganalisis hubungan antar komponen biotik dan abiotik, serta pengaruhnya terhadap ekosistem; menjelaskan fenomena gelombang bunyi dan cahaya dalam kehidupan sehari-hari; menghasilkan upaya penghematan energi, serta pemanfaatan sumber energi alternatif dari sumber daya yang ada di sekitarnya sebagai upaya mitigasi perubahan iklim; menjelaskan sistem tata surya, serta kaitannya dengan rotasi dan revolusi bumi; menjelaskan letak dan kondisi geografis negara Indonesia dengan menggunakan peta konvensional/digital; meninjau sejarah perjuangan para pahlawan di lingkungan sekitar tempat tinggalnya; menemukan keragaman budaya nasional dalam konteks kebhinekaan berdasarkan pemahaman terhadap nilai-nilai kearifan lokal yang berlaku di wilayah tempat tinggal; serta menerapkan kegiatan ekonomi masyarakat di lingkungan sekitar.",
+            "Keterampilan Proses": "Mampu menerapkan keterampilan proses yang meliputi: Mengamati: Murid mengamati fenomena dan peristiwa secara sederhana, mencatat hasil pengamatannya, serta mencari persamaan dan perbedaannya. Mempertanyakan dan Memprediksi: Dengan panduan pendidik, murid mengidentifikasi pertanyaan yang dapat diselidiki secara ilmiah dan membuat prediksinya. Merencanakan dan Melakukan Penyelidikan: Secara mandiri, murid merencanakan dan melakukan langkah-langkah operasional untuk menjawab pertanyaan yang diajukan. Murid melakukan observasi menggunakan alat bantu pengukuran sederhana. Memproses serta Menganalisis Data dan Informasi: Murid mengolah data dalam bentuk tabel dan grafik, serta menjelaskan hasil pengamatan dan pola atau hubungan pada data. Murid membandingkan data dengan prediksi dan memberikan alasan berdasarkan bukti. Mengevaluasi dan Refleksi: Melakukan refleksi dan memberikan saran perbaikan terhadap penyelidikan yang sudah dilakukan. Mengomunikasikan Hasil: Murid mengomunikasikan hasil penyelidikan secara utuh yang ditunjang dengan argumen dalam berbagai media."
+          }
+        }
+      ]
+    }
+  ]
+}
+```
