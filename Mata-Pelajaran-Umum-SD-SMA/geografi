@@ -1,0 +1,20 @@
+```json
+{
+  "kategori": "Mata Pelajaran Umum (SD/MI, SMP/MTs, SMA/MA)",
+  "mata_pelajaran": [
+    {
+      "nama": "Geografi",
+      "capaian_per_fase": [
+        {
+          "fase": "F",
+          "kelas": "XI dan XII SMA/MA/Program Paket C",
+          "elemen": {
+            "Pemahaman Konsep": "Menganalisis keuntungan dari posisi strategis wilayah Indonesia dari sisi astronomis, geografis, geologis dan pemanfaatan sumber daya alam yang ada; memahami pola keanekaragaman hayati Indonesia dan dunia; memahami karakteristik geografi penduduk di wilayah Indonesia; memahami perubahan iklim, kebencanaan, dan lingkungan hidup sebagai bagian yang tak terpisahkan dari kondisi alam Indonesia; dan memahami kewilayahan dan pembangunan serta kerja sama antarnegara.",
+            "Keterampilan Proses": "Mengamati fenomena di Indonesia dan/atau dunia untuk memahami pola dan karakteristik, serta membuat pertanyaan ilmiah guna menggali informasi secara mendalam; mengumpulkan data melalui observasi langsung dan/atau kajian pustaka, mendokumentasikan data secara sistematis, menganalisis data dengan pendekatan ilmiah, dan menyimpulkan hasil analisis untuk menjawab pertanyaan; mengomunikasikan hasil analisis dalam berbagai media, seperti peta, grafik, tabel, infografis, dan aplikasi digital, serta merefleksi proses serta hasil yang diperoleh untuk menyempurnakan pemahaman dan merencanakan pengembangan lebih lanjut; dan membuat projek kolaboratif tentang fenomena geografi di Indonesia dan/atau dunia menggunakan teknologi geospasial."
+          }
+        }
+      ]
+    }
+  ]
+}
+```
