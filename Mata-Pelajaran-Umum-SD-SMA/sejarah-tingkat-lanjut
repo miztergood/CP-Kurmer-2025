@@ -1,0 +1,20 @@
+```json
+{
+  "kategori": "Mata Pelajaran Umum (SD/MI, SMP/MTs, SMA/MA)",
+  "mata_pelajaran": [
+    {
+      "nama": "Sejarah Tingkat Lanjut",
+      "capaian_per_fase": [
+        {
+          "fase": "F",
+          "kelas": "XI dan XII SMA/MA/Program Paket C",
+          "elemen": {
+            "Pemahaman Konsep": "Menunjukan kesadaran sejarah melalui proses berpikir sejarah, pemahaman yang empatik melalui kegiatan literasi sejarah, meneliti dan menulis sejarah, serta mengaplikasikan sejarah dunia berwawasan global dan dikaitkan dengan sejarah Indonesia yang menghasilkan projek sejarah dalam bentuk produk digital atau nondigital; merefleksikan sejarah dunia dalam kehidupan sehari-hari dan perkembangan informasi tentang kondisi dunia yang terus berubah. Kompetensi tersebut dikuasai setelah murid mempelajari berbagai peristiwa sejarah yang terjadi di dunia mulai dari asal usul manusia, peradaban-peradaban besar dunia, pemikiran-pemikiran besar dunia, revolusi-revolusi besar dunia, perang dunia I dan perang dunia II, perang dingin, dan peristiwa-peristiwa kontemporer dunia sampai abad-21.",
+            "Keterampilan Proses": "Menerapkan secara spesifik proses berpikir historis dikembangkan dengan kriteria signifikansi sejarah, pencarian sumber sejarah, perubahan, keberlanjutan dan keberulangan, Perkembangan dan keruntuhan, Keruangan sejarah, Empati dan keputusan moral, Pelaku sejarah. Secara umum keterampilan proses pada mata pelajaran Sejarah dilakukan dengan cara berikut. Mengamati: murid mencermati fenomena sejarah terkait materi pelajaran. Menanya: murid menyusun pertanyaan tentang hal yang ingin diketahui dan masalah yang sedang diselidiki dengan rumus 5W 1H (apa, siapa, kapan, dimana, mengapa, dan bagaimana) dan memperkirakan jawaban atas pertanyaan. Mengumpulkan informasi (heuristik): murid mencari informasi dari sumber sejarah (sumber primer dan sekunder) melalui studi pustaka, studi dokumen/arsip, wawancara, observasi, kuesioner, dan lain-lain. Menganalisis informasi (kritik sumber): murid menyeleksi sumber, memverifikasi, triangulasi/cek silang akurasi data dan fakta sejarah, menginterpretasi/menafsirkan data dan fakta sejarah. Menarik kesimpulan: murid menarasikan temuan hasil investigasi terhadap permasalahan terkait materi pelajaran Sejarah. Mengomunikasikan: murid menyajikan informasi sejarah secara lisan, tulisan, dan dan/atau media lain dalam bentuk digital atau nondigital. Merefleksikan dan merencanakan projek lanjutan secara kolaboratif: murid mengevaluasi pengalaman belajar dan merencanakan projek lanjutan lintas mata pelajaran secara kolaboratif."
+          }
+        }
+      ]
+    }
+  ]
+}
+```
