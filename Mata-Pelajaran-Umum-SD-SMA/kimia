@@ -1,0 +1,20 @@
+```json
+{
+  "kategori": "Mata Pelajaran Umum (SD/MI, SMP/MTs, SMA/MA)",
+  "mata_pelajaran": [
+    {
+      "nama": "Kimia",
+      "capaian_per_fase": [
+        {
+          "fase": "F",
+          "kelas": "XI dan XII SMA/MA/Program Paket C",
+          "elemen": {
+            "Pemahaman Kimia": "Menganalisis hubungan struktur atom dengan sistem periodik unsur; membandingkan jenis ikatan kimia serta kaitannya dengan bentuk molekul dan gaya intermolekuler dalam memprediksi sifat fisik materi; mengaitkan perubahan entalpi standar dari suatu reaksi kimia dengan sumber energi yang ada di lingkungan sekitar; menganalisis faktor-faktor yang mempengaruhi laju reaksi; menganalisis kesetimbangan kimia dan penerapannya; menjelaskan daya hantar listrik dan sifat koligatif larutan; menjelaskan sel elektrokimia dalam kehidupan sehari-hari; dan menjelaskan senyawa karbon dan makromolekul.",
+            "Keterampilan Proses": "Menerapkan keterampilan proses yang mencakup: Mengamati: Mengamati fenomena ilmiah dalam kehidupan sehari-hari maupun di laboratorium dan mencatat hasil pengamatannya dengan memperhatikan detail dari objek yang diamati untuk memunculkan pertanyaan yang akan diselidiki. Mempertanyakan dan Memprediksi: Merumuskan pertanyaan ilmiah tentang hubungan antar variabel dan hipotesis yang dapat diselidiki secara ilmiah. Merencanakan dan Melakukan Penyelidikan: Merencanakan dan memilih metode yang sesuai serta mengendalikan variabel berdasarkan referensi untuk mengumpulkan data yang dapat dipercaya; memilih dan menggunakan alat dan bahan, termasuk penggunaan teknologi digital yang sesuai untuk mengumpulkan serta mencatat data secara sistematis dan akurat. Memproses, Menganalisis Data dan Informasi: Menafsirkan informasi yang diperoleh dengan jujur dan bertanggung jawab; menggunakan berbagai metode untuk menganalisa pola dan kecenderungan pada data; mendeskripsikan hubungan antar variabel serta mengidentifikasi inkonsistensi yang terjadi; menggunakan data dan rujukan untuk menarik kesimpulan yang konsisten dengan hasil penyelidikan. Mengevaluasi dan Refleksi: Mengidentifikasi sumber ketidakpastian dan kemungkinan penjelasan alternatif dalam rangka mengevaluasi kesimpulan serta menjelaskan cara spesifik untuk meningkatkan kualitas data; menganalisis validitas informasi dari sumber primer dan sekunder serta mengevaluasi pendekatan yang digunakan untuk menyelesaikan masalah dalam penyelidikan. Mengomunikasikan Hasil: Mengomunikasikan hasil penyelidikan secara sistematis dan utuh ditunjang dengan argumen ilmiah dan terbuka terhadap pendapat yang lebih relevan."
+          }
+        }
+      ]
+    }
+  ]
+}
+```
