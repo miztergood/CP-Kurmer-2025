@@ -1,0 +1,20 @@
+```json
+{
+  "kategori": "Mata Pelajaran Umum (SD/MI, SMP/MTs, SMA/MA)",
+  "mata_pelajaran": [
+    {
+      "nama": "Antropologi",
+      "capaian_per_fase": [
+        {
+          "fase": "F",
+          "kelas": "XI dan XII SMA/MA/Program Paket C",
+          "elemen": {
+            "Pemahaman Konsep": "Menjelaskan konsep dasar Antropologi sebagai disiplin keilmuan, termasuk sejarah perkembangan, ruang lingkup, dan prinsip-prinsip seperti native’s point of view (pendekatan emik), relativisme budaya, thick description dan holistik, serta mengintegrasikannya secara bermakna dan kontekstual dalam menganalisis fenomena budaya, dengan pemahaman bahwa unsur-unsur kebudayaan saling mempengaruhi dan berhubungan; menjelaskan metode penelitian etnografi sebagai ciri khas utama dalam Antropologi dengan akan mempelajari metode, teknik, dan prinsip etnografi dalam menggali data secara mendalam melalui keterlibatan langsung di lapangan dan membaca hasil karya etnografi secara kritis, sehingga mampu menghasilkan gambaran utuh tentang kehidupan dan budaya suatu komunitas; memahami bahwa kebudayaan merupakan objek kajian utama dalam Antropologi yang melibatkan konsep dasar dan unsur-unsur budaya, yang terus berkembang seiring dengan perubahan sosial, teknologi, dan interaksi antarbudaya; memahami bahasa dan sistem religi tidak hanya sebagai bagian unsur universal dalam kebudayaan tetapi juga sebagai bagian dari sistem simbol dan kepercayaan yang hadir dalam kehidupan manusia; menganalisis konsep dasar dan fungsi organisasi sosial, termasuk keluarga dan sistem kekerabatan sebagai bagian dari struktur sosial di masyarakat; menganalisis problematika keberagaman budaya sebagai realitas dalam kehidupan masyarakat yang multikultural dan masyarakat digital.",
+            "Keterampilan Proses": "Mengaplikasikan metode penelitian etnografi secara sederhana sebagai bagian dari keterampilan dasar dalam Antropologi; menerapkan prinsip relativisme budaya dalam kehidupan sehari-hari sebagai bentuk penghargaan terhadap keberagaman nilai dan norma budaya; mengaplikasikan pendekatan emik dan etik dalam praktik, serta merefleksikan pengalaman mereka dalam menggunakan metode penelitian etnografi sederhana; menganalisis dan mengevaluasi temuan mereka dengan memperhatikan bagaimana perspektif emik dan etik dapat mempengaruhi pemahaman mereka tentang dinamika sosial dan budaya; mengidentifikasi tantangan dan peluang dalam melakukan penelitian lapangan serta memperoleh wawasan yang lebih dalam tentang interaksi sosial dan kebudayaan; dan, merekomendasi atau solusi berdasarkan temuan mereka yang dapat bermanfaat untuk mempromosikan pemahaman lintas budaya dan menghargai keragaman budaya di komunitas mereka."
+          }
+        }
+      ]
+    }
+  ]
+}
+```
