@@ -1,1 +1,408 @@
-
+{
+  "kategori": "Mata Pelajaran Umum (SD/MI, SMP/MTs, SMA/MA)",
+  "mata_pelajaran": [
+    {
+      "nama": "Pendidikan Agama Islam dan Budi Pekerti",
+      "capaian_per_fase": [
+        {
+          "fase": "A",
+          "kelas": "I dan II SD/MI/Program Paket A",
+          "elemen": {
+            "Al-Qur'an Hadis": "Memahami huruf hijaiah berharakat, huruf hijaiah bersambung, Surah al-Fatihah, beberapa surah pendek Al-Qur'an, dan hadis tentang kebersihan.",
+            "Akidah": "Memahami rukun iman, iman kepada Allah Swt., beberapa asmaulhusna, dan iman kepada malaikat.",
+            "Akhlak": "Memahami akhlak terhadap Allah Swt. dengan menyucikan dan memuji-Nya dan akhlak terhadap diri sendiri.",
+            "Fikih": "Memahami rukun Islam, syahadatain, tata cara bersuci, salat fardu, azan, ikamah, zikir, dan berdoa setelah salat.",
+            "Sejarah Peradaban Islam": "Memahami kisah beberapa nabi dan rasul."
+          }
+        },
+        {
+          "fase": "B",
+          "kelas": "III dan IV SD/MI/Program Paket A",
+          "elemen": {
+            "Al-Qur'an Hadis": "Memahami beberapa surah pendek, ayat Al-Qur'an dan hadis tentang kewajiban salat dan menjaga hubungan baik dengan sesama.",
+            "Akidah": "Memahami sifat-sifat Allah Swt., beberapa asmaulhusna, iman kepada kitab-kitab Allah Swt. dan rasul-rasul Allah Swt.",
+            "Akhlak": "Memahami akhlak terhadap Allah Swt. dengan berbaik sangka kepada-Nya, akhlak terhadap orang tua, keluarga, dan pendidik.",
+            "Fikih": "Memahami puasa, salat jumat dan salat sunah, balig dan tanggung jawab yang menyertainya (taklif).",
+            "Sejarah Peradaban Islam": "Memahami kisah Nabi Muhammad saw. sebelum dan sesudah menjadi rasul periode Makkah."
+          }
+        },
+        {
+          "fase": "C",
+          "kelas": "V dan VI SD/MI/Program Paket A",
+          "elemen": {
+            "Al-Qur'an Hadis": "Memahami beberapa surah pendek dan ayat Al-Qur'an serta hadis tentang keragaman.",
+            "Akidah": "Memahami beberapa asmaulhusna, iman kepada hari akhir, qada' dan qadr.",
+            "Akhlak": "Memahami akhlak terhadap Allah Swt. dengan berdoa dan bertawakal kepada-Nya, akhlak terhadap teman, tetangga, non muslim, hewan, dan tumbuhan.",
+            "Fikih": "Memahami puasa sunah, zakat, infak, sedekah, hadiah, makanan dan minuman yang halal dan haram.",
+            "Sejarah Peradaban Islam": "Memahami kisah Nabi Muhammad saw. periode Madinah dan khulafaurasyidin."
+          }
+        },
+        {
+          "fase": "D",
+          "kelas": "VII, VIII dan IX SMP/MTs/Program Paket B",
+          "elemen": {
+            "Al-Qur'an Hadis": "Memahami ayat Al-Qur'an dan hadis tentang pentingnya iman, takwa, toleransi, cinta tanah air, semangat keilmuan dan sabar dalam menghadapi musibah dan ujian.",
+            "Akidah": "Memahami rukun iman dan hal-hal yang dapat meneguhkan iman.",
+            "Akhlak": "Memahami ikhlas, bersyukur kepada Allah Swt., cinta rasul, husnuzan, kasih sayang kepada sesama dan lingkungan alam.",
+            "Fikih": "Memahami ketentuan sujud, salat, kewajiban terhadap jenazah, haji dan umrah, penyembelihan hewan, kurban, akikah, dan rukhsah dalam perspektif mazhab fikih.",
+            "Sejarah Peradaban Islam": "Memahami peradaban Bani Umayyah, Abbasiyyah, Fatimiyah, Turki Usmani, Syafawi, dan Mughal."
+          }
+        },
+        {
+          "fase": "E",
+          "kelas": "X SMA/MA/SMK/MAK/Program Paket C",
+          "elemen": {
+            "Al-Qur'an Hadis": "Memahami ayat Al-Qur'an dan hadis tentang perintah berlomba-lomba dalam kebaikan, larangan pergaulan bebas, dan zina.",
+            "Akidah": "Memahami beberapa cabang iman (syu'ab al-iman).",
+            "Akhlak": "Memahami manfaat menghindari penyakit hati.",
+            "Fikih": "Memahami sumber hukum Islam dan pentingnya menjaga lima prinsip dasar hukum Islam (al-kulliyat al-khamsah).",
+            "Sejarah Peradaban Islam": "Memahami sejarah masuknya Islam ke Indonesia dan peran tokoh ulama dalam penyebarannya."
+          }
+        },
+        {
+          "fase": "F",
+          "kelas": "XI dan XII SMA/MA/SMK/MAK/Program Paket C",
+          "elemen": {
+            "Al-Qur'an Hadis": "Memahami ayat Al-Qur'an dan hadis tentang pentingnya berpikir kritis, ilmu pengetahuan dan teknologi, memelihara kehidupan manusia, dan moderasi beragama.",
+            "Akidah": "Memahami beberapa cabang iman (syu'ab al-iman), keterkaitan antara iman, Islam, dan ihsan.",
+            "Akhlak": "Memahami manfaat menghindari penyakit sosial; Memahami adab bermasyarakat dan etika digital dalam Islam.",
+            "Fikih": "Memahami ketentuan khotbah, tablig dan dakwah, muamalah, munakahat, dan mawaris.",
+            "Sejarah Peradaban Islam": "Memahami peran tokoh ulama dalam perkembangan peradaban Islam di dunia dan peran organisasi-organisasi Islam di Indonesia."
+          }
+        }
+      ]
+    },
+    {
+      "nama": "Pendidikan Agama Kristen dan Budi Pekerti",
+      "capaian_per_fase": [
+        {
+          "fase": "A",
+          "kelas": "I dan II SD/Program Paket A",
+          "elemen": {
+            "Allah Berkarya": "Memahami Allah menciptakan dirinya sebagai pribadi yang istimewa dan membangun interaksi dengan lingkungan terdekat, serta memahami pemeliharaan Allah pada dirinya melalui kehadiran keluarga.",
+            "Manusia dan Nilai-nilai Kristiani": "Memahami diri sebagai pribadi yang bertumbuh dan berkembang, serta memahami makna kebaikan, ramah dan sopan di rumah dan di sekolah.",
+            "Gereja dan Masyarakat Majemuk": "Memahami keberadaan gereja sebagai wadah berkumpul dan beribadah, kewajiban berdoa dan memuji Tuhan, serta keragaman suku bangsa sebagai anugerah Allah.",
+            "Alam dan Lingkungan Hidup": "Memahami alam dan lingkungan hidup sebagai ciptaan Allah dan memahami tugas memelihara alam dan lingkungan hidup di rumah dan di sekolah."
+          }
+        },
+        {
+          "fase": "B",
+          "kelas": "III dan IV SD/Program Paket A",
+          "elemen": {
+            "Allah Berkarya": "Memahami Allah menciptakan flora, fauna, serta manusia (perempuan dan laki-laki), memahami pemeliharaan Allah pada dirinya dan melalui orang sekitar, memahami Allah sebagai penyelamat, dan mengenal Allah pembaru.",
+            "Manusia dan Nilai-nilai Kristiani": "Memahami diri sebagai makhluk individu dan sosial yang dapat bergaul, dan memahami sikap disiplin di rumah dan di sekolah.",
+            "Gereja dan Masyarakat Majemuk": "Memahami tugas panggilan gereja untuk bersekutu, bersaksi, melayani, dan memahami keragaman budaya dan agama sebagai anugerah Allah.",
+            "Alam dan Lingkungan Hidup": "Memahami Allah hadir dalam berbagai fenomena alam, dan memahami upaya memelihara alam serta lingkungan sekitarnya."
+          }
+        },
+        {
+          "fase": "C",
+          "kelas": "V dan VI SD/Program Paket A",
+          "elemen": {
+            "Allah Berkarya": "Memahami Allah Pencipta berkarya melalui keluarga, sekolah, dan masyarakat, Allah memelihara seluruh umat manusia (termasuk berkebutuhan khusus), menyelamatkan manusia melalui Yesus Kristus, dan membarui hidup manusia.",
+            "Manusia dan Nilai-nilai Kristiani": "Memahami bahwa manusia adalah makhluk terbatas dan memahami buah Roh dalam interaksi antarsesama.",
+            "Gereja dan Masyarakat Majemuk": "Memahami pelayanan terhadap sesama sebagai tanggung jawab orang beriman dan memahami hidup rukun serta toleransi dalam masyarakat majemuk.",
+            "Alam dan Lingkungan Hidup": "Memahami Allah hadir melalui alam ciptaan dan memahami tanggung jawab orang beriman dalam memelihara alam dan lingkungan hidup."
+          }
+        },
+        {
+          "fase": "D",
+          "kelas": "VII, VIII dan IX SMP/Program Paket B",
+          "elemen": {
+            "Allah Berkarya": "Memahami karya Allah dalam hidup manusia yang mengubah masa depan dunia, perkembangan iptek, Allah memelihara seluruh ciptaan-Nya, teladan Yesus Kristus dalam hidup beriman, dan karya Roh Kudus memimpin orang beriman.",
+            "Manusia dan Nilai-nilai Kristiani": "Memahami pergaulan remaja masa kini, prinsip rendah hati, penguasaan diri, peduli terhadap sesama, dan makna persahabatan.",
+            "Gereja dan Masyarakat Majemuk": "Memahami makna kehadiran gereja dalam pelayanan yang membawa pembaruan dan memahami model dialog serta kerjasama antarumat beragama.",
+            "Alam dan Lingkungan Hidup": "Memahami bahwa pemeliharaan Allah terus berlangsung dan manusia diberi tugas untuk mengolah serta memelihara alam dan lingkungan hidup."
+          }
+        },
+        {
+          "fase": "E",
+          "kelas": "X SMA/SMK/Program Paket C",
+          "elemen": {
+            "Allah Berkarya": "Memahami manusia diberi kemampuan mengembangkan rasio dan kepekaan hati nurani, pemeliharaan Allah, penyelamatan melalui peran keluarga, dan Roh Kudus membarui serta memulihkan kehidupan keluarga.",
+            "Manusia dan Nilai-nilai Kristiani": "Memahami peran dirinya sebagai remaja Kristen mengacu pada teks Alkitab dan prinsip kesetiaan, kasih, serta keadilan dalam kehidupan sosial.",
+            "Gereja dan Masyarakat Majemuk": "Memahami peran gereja dalam mewujudkan solidaritas terkait isu ras, etnis, gender, dan peran keluarga serta sekolah dalam mendidik kemajemukan.",
+            "Alam dan Lingkungan Hidup": "Memahami fakta kerusakan alam, perubahan iklim, pemanasan global, dan berbagai bentuk pencegahan serta pelestarian alam demi keberlanjutan hidup."
+          }
+        },
+        {
+          "fase": "F",
+          "kelas": "XI dan XII SMA/SMK/Program Paket C",
+          "elemen": {
+            "Allah Berkarya": "Memahami perkembangan kebudayaan, iptek, demokrasi, HAM sebagai anugerah Allah, memahami talenta pemberian Allah, karya penyelamatan melalui masyarakat, dan Roh Kudus membarui gereja, bangsa, dan negara.",
+            "Manusia dan Nilai-nilai Kristiani": "Memahami pertumbuhan diri, tanggung jawab sebagai pribadi dewasa, keadilan sebagai dasar demokrasi dan HAM, serta prinsip damai sejahtera.",
+            "Gereja dan Masyarakat Majemuk": "Memahami keteladanan tokoh agama bagi persaudaraan, solidaritas, isu ras, etnis, kesetaraan gender, dan transformasi sosial dalam rangka moderasi beragama.",
+            "Alam dan Lingkungan Hidup": "Memahami prinsip pemeliharaan kelestarian alam, serta sikap ugahari, bijak, dan adil memanfaatkan sumber daya alam."
+          }
+        }
+      ]
+    },
+    {
+      "nama": "Pendidikan Agama Katolik dan Budi Pekerti",
+      "capaian_per_fase": [
+        {
+          "fase": "A",
+          "kelas": "I dan II SD/Program Paket A",
+          "elemen": {
+            "Pribadi Peserta Didik": "Memahami dirinya sebagai pribadi yang dicintai Tuhan, cara merawat tubuhnya, dan lingkungan rumah serta pendidikan sebagai tempat mengembangkan potensi.",
+            "Yesus Kristus": "Memahami Tuhan menciptakan langit dan bumi, tokoh iman Perjanjian Lama, kisah kelahiran Yesus, masa kanak-kanak Yesus, dan Yesus dipersembahkan di Bait Allah.",
+            "Gereja": "Memahami imannya dengan cara membuat tanda salib, berdoa Bapa Kami, Salam Maria, Kemuliaan, dan membiasakan diri berdoa pujian, syukur, dan permohonan.",
+            "Masyarakat": "Memahami lingkungan keluarga, teman-teman, bekerja sama, serta hidup rukun dan bergotong royong merawat lingkungan."
+          }
+        },
+        {
+          "fase": "B",
+          "kelas": "III dan IV SD/Program Paket A",
+          "elemen": {
+            "Pribadi Peserta Didik": "Memahami diri tumbuh dan berkembang, melakukan perbuatan baik, memahami keunikan diri, dan mengembangkan keunikan bersama orang lain.",
+            "Yesus Kristus": "Memahami karya keselamatan melalui Yusuf, Musa, Yosua, Sepuluh Perintah Allah, bangsa Israel, pemimpin Israel, dan Yesus sebagai pemenuhan janji Allah.",
+            "Gereja": "Memahami sakramen baptis, ekaristi, tobat, dan mewujudkan rasa syukur dalam doa pribadi serta doa bersama.",
+            "Masyarakat": "Mewujudkan iman melalui kebiasaan menghormati pemimpin masyarakat, menghargai tradisi, melestarikan alam, dan menghormati orang tua, hidup pribadi, serta milik orang lain."
+          }
+        },
+        {
+          "fase": "C",
+          "kelas": "V dan VI SD/Program Paket A",
+          "elemen": {
+            "Pribadi Peserta Didik": "Memahami diri sebagai citra Allah yang sederajat dan saling melengkapi, memahami hak serta kewajiban warga negara, dan warga dunia.",
+            "Yesus Kristus": "Memahami perjuangan tokoh kitab suci, meneladani Yesus yang taat, Yesus mewartakan kerajaan Allah, wafat, bangkit, dan mengutus Roh Kudus.",
+            "Gereja": "Mewujudkan iman dalam kehidupan menggereja, memahami gereja yang satu, kudus, katolik, dan apostolik, pengampunan dosa, serta kebangkitan badan.",
+            "Masyarakat": "Terlibat aktif pelestarian lingkungan, bersikap jujur, menegakkan keadilan, dan melakukan dialog antar umat beragama."
+          }
+        },
+        {
+          "fase": "D",
+          "kelas": "VII, VIII dan IX SMP/Program Paket B",
+          "elemen": {
+            "Pribadi Peserta Didik": "Memahami manusia citra Allah yang unik, laki-laki dan perempuan, serta memahami kemampuan dan keterbatasan diri.",
+            "Yesus Kristus": "Memahami Yesus yang berbelas kasih, pengampun, pendoa, memanggil murid, wafat, bangkit, dan mengutus Roh Kudus.",
+            "Gereja": "Memahami gereja sebagai komunitas, karya pelayanan (Kerygma, Liturgia, Martyria, Koinonia, Diakonia), sakramen inisiasi, tobat, pengurapan, perkawinan, dan imamat.",
+            "Masyarakat": "Memahami kebebasan anak Allah, sabda bahagia, menghargai martabat manusia, alam sebagai rumah bersama, dan sikap gereja terhadap agama lain."
+          }
+        },
+        {
+          "fase": "E",
+          "kelas": "X SMA/SMK/Program Paket C",
+          "elemen": {
+            "Pribadi Peserta Didik": "Memahami pribadi unik, kesetaraan gender, suara hati, dan bersikap kritis terhadap media massa, ideologi, serta gaya hidup saat ini.",
+            "Yesus Kristus": "Memahami Yesus sebagai Putra Allah, Tri Tunggal Maha Kudus, peran Roh Kudus, serta menjadikan Yesus idola dan sahabat sejati.",
+            "Gereja": "Memahami kitab suci, tradisi suci dan magisterium sebagai sumber ajaran kristiani.",
+            "Masyarakat": "Memahami hidup berpola pada pribadi Yesus Kristus dalam mewujudkan imannya di tengah masyarakat."
+          }
+        },
+        {
+          "fase": "F",
+          "kelas": "XI dan XII SMA/SMK/Program Paket C",
+          "elemen": {
+            "Pribadi Peserta Didik": "Memahami makna panggilan hidup berkeluarga, membiara, klerus, karya/profesi.",
+            "Yesus Kristus": "-",
+            "Gereja": "Memahami gereja sebagai umat Allah, sifat gereja, peran hierarki dan awam, serta karya pastoral gereja.",
+            "Masyarakat": "Memahami hubungan gereja dan dunia, ajaran sosial gereja, HAM, budaya kasih, keadilan, keberagaman, moderasi beragama, dan peran umat Katolik membangun bangsa."
+          }
+        }
+      ]
+    },
+    {
+      "nama": "Pendidikan Agama Hindu dan Budi Pekerti",
+      "capaian_per_fase": [
+        {
+          "fase": "A",
+          "kelas": "I dan II SD/Program Paket A",
+          "elemen": {
+            "Kitab Suci Weda": "Memahami kitab Ramayana dan Mahabharata.",
+            "Sraddha dan Bhakti": "Memahami Hyang Widhi Wasa sebagai pencipta dan sumber hidup.",
+            "Susila": "Memahami Subha dan Asubha Karma, serta Tri Kaya Parisudha.",
+            "Acara": "Memahami Dainika Upasana dan sarana persembahyangan.",
+            "Sejarah Agama Hindu": "Memahami tokoh-tokoh kerajaan Hindu di Indonesia."
+          }
+        },
+        {
+          "fase": "B",
+          "kelas": "III dan IV SD/Program Paket A",
+          "elemen": {
+            "Kitab Suci Weda": "Memahami kitab Purana.",
+            "Sraddha dan Bhakti": "Memahami Hyang Widhi Wasa sebagai Tri Murti dan Cadu Sakti.",
+            "Susila": "Memahami Tri Parartha dan Catur Paramitha.",
+            "Acara": "Memahami Hari Suci dan Tempat Suci agama Hindu sesuai kearifan lokal.",
+            "Sejarah Agama Hindu": "Memahami tokoh-tokoh kerajaan Hindu di Indonesia."
+          }
+        },
+        {
+          "fase": "C",
+          "kelas": "V dan VI SD/Program Paket A",
+          "elemen": {
+            "Kitab Suci Weda": "Memahami Weda Sruti dan Weda Smerti.",
+            "Sraddha dan Bhakti": "Memahami Bhuana Agung dan Bhuana Alit.",
+            "Susila": "Memahami ajaran Catur Guru dan Catur Asrama.",
+            "Acara": "Memahami Panca Yadnya dan Manggalaning Yadnya.",
+            "Sejarah Agama Hindu": "Memahami Sejarah Perkembangan Agama Hindu di Indonesia."
+          }
+        },
+        {
+          "fase": "D",
+          "kelas": "VII, VIII dan IX SMP/Program Paket B",
+          "elemen": {
+            "Kitab Suci Weda": "Memahami Upaweda, Wedangga, dan Nibhanda.",
+            "Sraddha dan Bhakti": "Memahami Atman, Asta Aiswarya, dan Catur Marga.",
+            "Susila": "Memahami Tri Hita Karana, Catur Purusa Artha, serta Panca Yama Brata dan Panca Niyama Brata.",
+            "Acara": "Memahami Upakara, Dharma Gita, serta Budaya Hidup Bersih dan Sehat menurut Weda.",
+            "Sejarah Agama Hindu": "Memahami Sejarah Perkembangan Agama Hindu di Asia."
+          }
+        },
+        {
+          "fase": "E",
+          "kelas": "X SMA/SMK/Program Paket C",
+          "elemen": {
+            "Kitab Suci Weda": "Memahami Dharmasastra.",
+            "Sraddha dan Bhakti": "Memahami Karmaphala dan Punarbhawa.",
+            "Susila": "Memahami ajaran Catur Warna.",
+            "Acara": "Memahami Yadnya dan Ramayana dan Mahabhrata.",
+            "Sejarah Agama Hindu": "Memahami Corak Keagamaan Hindu di dunia."
+          }
+        },
+        {
+          "fase": "F",
+          "kelas": "XI dan XII SMA/SMK/Program Paket C",
+          "elemen": {
+            "Kitab Suci Weda": "Memahami Kodifikasi Weda dan Ajaran Upanisad.",
+            "Sraddha dan Bhakti": "Memahami Darsana dan Moksa.",
+            "Susila": "Memahami konsep Keluarga Sukhinah dan Karakter Kepemimpinan Hindu.",
+            "Acara": "Memahami Seni Keagamaan Hindu serta Yogacara dalam Mantra, Yantra, dan Tantra.",
+            "Sejarah Agama Hindu": "Memahami Sejarah Organisasi Keagamaan Hindu di Indonesia."
+          }
+        }
+      ]
+    },
+    {
+      "nama": "Pendidikan Agama Buddha dan Budi Pekerti",
+      "capaian_per_fase": [
+        {
+          "fase": "A",
+          "kelas": "I dan II SD/Program Paket A",
+          "elemen": {
+            "Sejarah": "Memahami identitas diri, menghargai perbedaan, dan mengamalkan sifat para Bodhisattva, Buddha, atau tokoh Buddhis inspiratif dalam menyayangi diri dan bersikap hormat.",
+            "Ritual": "Memahami identitas agama Buddha, kepercayaan lain, dan simbol-simbol keagamaan di lingkungan rumah serta sekolah.",
+            "Etika": "Mengamalkan aturan, sopan santun, memahami pergaulan, musyawarah sederhana berlandaskan sifat luhur, hukum karma, dan Pancasila."
+          }
+        },
+        {
+          "fase": "B",
+          "kelas": "III dan IV SD/Program Paket A",
+          "elemen": {
+            "Sejarah": "Memahami identitas Buddha Sakyamuni, bahasa, dan budaya agama Buddha; meneladan Buddha dalam menghargai sesama manusia dan pergaulan.",
+            "Ritual": "Memahami doa Buddhis dalam kegiatan sehari-hari berdasarkan keyakinan Triratna, menghargai identitas aliran dalam agama Buddha.",
+            "Etika": "Mengamalkan nilai Pancasila Buddhis, hukum sebab akibat, sikap tolong menolong, kebersihan, dan kelestarian lingkungan secara musyawarah."
+          }
+        },
+        {
+          "fase": "C",
+          "kelas": "V dan VI SD/Program Paket A",
+          "elemen": {
+            "Sejarah": "Meneladani Buddha Sakyamuni meraih kesuksesan, menyelesaikan masalah individu/sosial, dan memahami konsep musyawarah mufakat.",
+            "Ritual": "Memahami keragaman upacara puja, meditasi ketenangan dari berbagai aliran, dan mengamalkan sikap bersatu melalui dialog moderasi beragama.",
+            "Etika": "Mengamalkan nilai Buddhadharma, Pancasila Buddhis, dasar negara, hukum sebab akibat, dan memahami hak serta kewajiban."
+          }
+        },
+        {
+          "fase": "D",
+          "kelas": "VII, VIII dan IX SMP/Program Paket B",
+          "elemen": {
+            "Sejarah": "Memahami sifat Buddha Sakyamuni, penyokong Buddha, siswa utama, dan peristiwa monumental setelah Buddha Parinibbana untuk diteladani.",
+            "Ritual": "Memahami meditasi hidup berkesadaran, budaya puja, hari raya, ziarah, kunjungan ibadah lain, dan melakukan dialog kerukunan umat beragama.",
+            "Etika": "Memahami ajaran moralitas, jalan Bodhisattva, hukum karma, hak/kewajiban moral, dan menentukan sikap terhadap isu sosial seperti kesetaraan gender."
+          }
+        },
+        {
+          "fase": "E",
+          "kelas": "X SMA/SMK/Program Paket C",
+          "elemen": {
+            "Sejarah": "Memahami penyiaran Agama Buddha dan meneladan perjuangan pelaku sejarah Agama Buddha masa kini.",
+            "Ritual": "Memahami meditasi ketenangan batin dengan keyakinan.",
+            "Etika": "Memahami nilai moderasi beragama berdasarkan Buddhadharma, IPTEK berdasarkan nilai agama, dan memahami Hukum Kebenaran Mutlak."
+          }
+        },
+        {
+          "fase": "F",
+          "kelas": "XI dan XII SMA/SMK/Program Paket C",
+          "elemen": {
+            "Sejarah": "Memahami sikap tokoh pendukung, pelaku sejarah Buddhis, Budaya Buddhis, dan komunikasi lintas budaya/aliran secara bijaksana.",
+            "Ritual": "Melaksanakan upacara keagamaan, menghargai ritual agama lain, memahami nilai Buddha dengan kearifan lokal, dan aksi sosial budaya.",
+            "Etika": "Memahami alam semesta/kehidupan berdasarkan Hukum Kebenaran Mutlak, Empat Kebenaran Mulia, Hukum Karma, Punabhava, dan bijaksana dalam isu global."
+          }
+        }
+      ]
+    },
+    {
+      "nama": "Pendidikan Agama Khonghucu dan Budi Pekerti",
+      "capaian_per_fase": [
+        {
+          "fase": "A",
+          "kelas": "I dan II SD/Program Paket A",
+          "elemen": {
+            "Sejarah Suci": "Memahami riwayat dan keluarga Nabi Kongzi, kisah keteladanan bakti, dan solidaritas tokoh agama Khonghucu.",
+            "Kitab Suci": "Memahami ayat suci kitab Bakti (Xiaojing), Sishu, dan Wujing yang berkaitan dengan anak berbakti dan keteladanan Nabi Kongzi.",
+            "Keimanan": "Memahami konsep Tian yang menciptakan manusia melalui orang tua, peran leluhur, dan Nabi Kongzi sebagai genta rohani (Tian Zhi Muduo).",
+            "Tata Ibadah": "Memahami sikap berdoa, menghormat, sembahyang kepada Tian, Nabi Kongzi, leluhur, serta perlengkapan sembahyang di altar.",
+            "Perilaku Junzi": "Memahami sikap bakti dan hormat, berdoa sebelum/sesudah aktivitas, sikap toleransi, dan tanggung jawab terhadap diri sendiri."
+          }
+        },
+        {
+          "fase": "B",
+          "kelas": "III dan IV SD/Program Paket A",
+          "elemen": {
+            "Sejarah Suci": "Memahami watak sejati (xing) menurut Mengzi, murid Nabi Kongzi, tugas suci Nabi Kongzi, tokoh pembaharuan, dan keteladanan ibu para tokoh.",
+            "Kitab Suci": "Memahami kesukaan yang membawa faedah/celaka, bagian kitab Sishu dan Wujing, dan ayat terkait delapan kebajikan (bade).",
+            "Keimanan": "Memahami makna persembahyangan, tanda menjelang wafat Nabi Kongzi, delapan keimanan, dan cita-cita mulia Nabi Kongzi.",
+            "Tata Ibadah": "Memahami peralatan sembahyang, tata cara menancapkan dupa, sikap berdoa, dan pelaksanaan ibadah di kelenteng/litang/miao.",
+            "Perilaku Junzi": "Memahami perilaku luhur Nabi Kongzi, menghargai waktu, saling mengasihi, delapan kebajikan, mudah bergaul, dan mengakui kesalahan."
+          }
+        },
+        {
+          "fase": "C",
+          "kelas": "V dan VI SD/Program Paket A",
+          "elemen": {
+            "Sejarah Suci": "Memahami wahyu Tian oleh para nabi/raja suci, tokoh Rujiao, dan sejarah perkembangan Khonghucu di Indonesia.",
+            "Kitab Suci": "Memahami ayat Sishu dan Wujing tentang Nabi Kongzi, persaudaraan, cinta tanah air, empat pantangan, dan konsep sancai.",
+            "Keimanan": "Memahami sembahyang adalah pokok agama, definisi iman, hukum yinyang, dan konsep Tiga Dasar Kenyataan (sancai).",
+            "Tata Ibadah": "Memahami hari raya/sembahyang kepada Tian, Nabi Kongzi, shenming, dan leluhur sebagai wujud kesusilaan (li) serta peralatannya.",
+            "Perilaku Junzi": "Memahami sikap cinta kasih, cinta tanah air, tepa salira, bakti kepada Tiandiren, empat pantangan (siwu) dan lima hubungan (wulun)."
+          }
+        },
+        {
+          "fase": "D",
+          "kelas": "VII, VIII dan IX SMP/Program Paket B",
+          "elemen": {
+            "Sejarah Suci": "Memahami rangkaian wahyu Khonghucu, keteladanan murid Nabi Kongzi, dan perkembangan kehidupan beragama di Indonesia.",
+            "Kitab Suci": "Memahami teks kitab Sishu, Wujing, serta Xiaojing sebagai sumber pengetahuan sejarah suci, keimanan, tata ibadah, dan perilaku Junzi.",
+            "Keimanan": "Memahami Tian, kenabian Nabi Kongzi, dan watak sejati (xing).",
+            "Tata Ibadah": "Memahami ritual keagamaan kepada Tian, di, dan ren dalam agama Khonghucu.",
+            "Perilaku Junzi": "Memahami perilaku sesuai predikat baik sebagai individu, keluarga, dan warga negara berpedoman pada dizigui, wuchang, dan delapan kebajikan."
+          }
+        },
+        {
+          "fase": "E",
+          "kelas": "X SMA/SMK/Program Paket C",
+          "elemen": {
+            "Sejarah Suci": "Memahami karya dan nilai keteladanan para nabi, raja suci, tokoh Khonghucu, dan kisah hidup murid Nabi Kongzi.",
+            "Kitab Suci": "Memahami fase perkembangan kitab suci agama Khonghucu dan bagian-bagian Kitab Wujing.",
+            "Keimanan": "Memahami kebesaran jalan suci Tian (Tiandao), kekuasaan hukum suci Tian (Tianli), makna wahyu Tian, dan prinsip yinyang.",
+            "Tata Ibadah": "Memahami hakikat dan makna ibadah persembahyangan kepada Tian.",
+            "Perilaku Junzi": "Memahami hakikat dan sifat dasar manusia, serta sikap moderasi beragama."
+          }
+        },
+        {
+          "fase": "F",
+          "kelas": "XI dan XII SMA/SMK/Program Paket C",
+          "elemen": {
+            "Sejarah Suci": "Memahami prinsip moral Mengzi, kisah Raja Yao dan Shun, nabi Yi Yin, jabatan Nabi Kongzi, serta situs sejarah Khonghucu di Indonesia.",
+            "Kitab Suci": "Memahami kitab suci pokok (Sishu), mendasari (Wujing), serta ayat mengenai wuchang dan wulun.",
+            "Keimanan": "Memahami manusia sebagai co-creator ciptaan Tian, makna sikap zhongshu, Nabi Kongzi sebagai Tian Zhi Muduo, dan teladan leluhur.",
+            "Tata Ibadah": "Memahami ritual persembahyangan kepada Tian, nabi, shenming, leluhur, makna agamis hari raya, serta atribut rohaniwan.",
+            "Perilaku Junzi": "Memahami perilaku bakti (xiao) sebagai pokok kebajikan, cinta kasih, kebenaran, semangat belajar, dan konsep kebersamaan agung (datong)."
+          }
+        }
+      ]
+    }
+  ]
+}
+```
