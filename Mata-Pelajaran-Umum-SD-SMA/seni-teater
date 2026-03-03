@@ -1,0 +1,78 @@
+```json
+{
+  "kategori": "Mata Pelajaran Umum (SD/MI, SMP/MTs, SMA/MA)",
+  "mata_pelajaran": [
+    {
+      "nama": "Seni Teater",
+      "capaian_per_fase": [
+        {
+          "fase": "A",
+          "kelas": "I dan II SD/MI/Program Paket A",
+          "elemen": {
+            "Mengalami (Experiencing)": "Mengamati, merespons, meniru gerak tubuh dan suara sebagai media untuk mengomunikasikan emosi.",
+            "Merefleksikan (Reflection)": "Mengenali pengalaman dan emosi selama proses berseni teater serta menceritakan sebuah karya dengan kosakata sehari-hari.",
+            "Berpikir dan Bekerja Artistik (Thinking and Working Artistically)": "Mengenal jenis-jenis properti/alat bantu yang dapat mendukung cerita/permainan peran.",
+            "Menciptakan (Creating)": "Mengeksplorasi beragam peran mengenai tokoh di sekitar atau rekaan, dan memainkan sebuah lakon pertunjukan.",
+            "Berdampak (Impacting)": "Memainkan gerak dan lagu sesuai arahan dari pendidik."
+          }
+        },
+        {
+          "fase": "B",
+          "kelas": "III dan IV SD/MI/Program Paket A",
+          "elemen": {
+            "Mengalami (Experiencing)": "Mengenal teknik dasar akting (pemeranan) melalui proses meniru (mimesis), mengenal gerak tubuh, suara/vokal sesuai tokoh/peran atau perilaku objek sekitar.",
+            "Merefleksikan (Reflection)": "Mengenali lingkungan sekitarnya dan pengalaman dalam bermain teater.",
+            "Bekerja Secara Artistik (Thinking and Working Artistically)": "Menggunakan properti yang sesuai dengan tokoh yang diperankan.",
+            "Menciptakan (Creating)": "Mengamati berbagai peran, mengenal tokoh di sekitar, dan memainkan sebuah lakon dalam cerita.",
+            "Berdampak (Impacting)": "Mengenal bentuk lakon dalam bermain teater."
+          }
+        },
+        {
+          "fase": "C",
+          "kelas": "V dan VI SD/MI/Program Paket A",
+          "elemen": {
+            "Mengalami (Experiencing)": "Melakukan permainan peran berkelompok, seperti improvisasi untuk melatih aksi dan reaksi dalam mengelaborasi cerita atau tokoh dan melakukan pengenalan karakter melalui pengamatan kebiasaan tokoh yang diperankan.",
+            "Merefleksikan (Reflection)": "Menceritakan pendapatnya tentang sebuah cerita sederhana (penokohan, perwatakan).",
+            "Berpikir dan Bekerja Artistik (Thinking and Working Artistically)": "Mengidentifikasi properti sederhana berdasarkan cerita yang akan dimainkan.",
+            "Menciptakan (Creating)": "Mengenal dan memainkan ragam peran dari cerita sederhana berdasarkan hasil pengamatan.",
+            "Berdampak (Impacting)": "Memerankan lakon secara individu maupun berkelompok berdasarkan minat, pengamatan, dan pengalaman."
+          }
+        },
+        {
+          "fase": "D",
+          "kelas": "VII, VIII dan IX SMP/MTs/Program Paket B",
+          "elemen": {
+            "Mengalami (Experiencing)": "Mengeksplorasi olah tubuh, mimik wajah, dan vokal sebagai dasar keaktoran murid; mengidentifikasi karakter melalui analisis karakteristik, dan sosiologis; membuat dan memainkan beragam karakter dengan imajinasi dan kreativitasnya dan mengenal bentuk-bentuk teater.",
+            "Merefleksikan (Reflection)": "Menjelaskan pengalaman bermain peran dan dampaknya terhadap diri sendiri serta memberikan apresiasi dan umpan balik sesuai dengan pengalaman pribadi.",
+            "Berpikir dan Bekerja Artistik (Thinking and Working Artistically)": "Mengeksplorasi dan merancang tata artistik panggung dengan mempertimbangkan elemen-elemen rupa yang sederhana dari bahan yang ada di lingkungan sekitar serta memanfaatkan teknologi digital.",
+            "Menciptakan (Creating)": "Mengidentifikasi karakter dalam sebuah cerita dan menyusun alur cerita sederhana yang jelas dan mudah dipahami; memainkan lakon dengan satu gaya yang sederhana dan mudah dipelajari dan memainkan peran dalam sebuah pertunjukan sederhana di kelas atau satuan pendidikan.",
+            "Berdampak (Impacting)": "Membuat pertunjukan teater yang relevan dengan kehidupan murid."
+          }
+        },
+        {
+          "fase": "E",
+          "kelas": "X SMA/MA/SMK/MAK/Program Paket C",
+          "elemen": {
+            "Mengalami (Experiencing)": "Menginterpretasi dialog atau naskah dengan ragam teater bergenre propaganda, serta tokoh dan perwatakannya berdasar analisis karakteristik dan sosiologis untuk menunjang pesan/isu cerita secara realis.",
+            "Merefleksikan (Reflection)": "Mengapresiasi dan memberikan umpan balik mengenai pesan, kualitas akting, tata artistik, teknologi, dan elaborasi genre pada suatu karya, dengan menggunakan kosakata seni teater yang tepat dan argumentasi berdasarkan teori yang dipelajari.",
+            "Berpikir dan Bekerja Artistik (Thinking and Working Artistically)": "Mengeksplorasi berbagai peran dan tata artistik panggung yang sesuai dengan cerita/genre yang dipertunjukkan di panggung maupun secara digital.",
+            "Menciptakan (Creating)": "Mengeksplorasi beragam peran realis, penulisan naskah orisinal, dan penyusunan cerita/alur pertunjukan.",
+            "Berdampak (Impacting)": "Menghasilkan naskah atau pertunjukan berdasarkan minat, pengetahuan, peristiwa aktual, pengalaman, empati, kreativitas, dan respons terhadap isu sosial dalam masyarakat."
+          }
+        },
+        {
+          "fase": "F",
+          "kelas": "XI dan XII SMA/MA/Program Paket C",
+          "elemen": {
+            "Mengalami (Experiencing)": "Menerapkan teknik keaktoran melalui bahasa tubuh, mimik wajah dan vokal untuk menunjukkan kepekaan terhadap persoalan sosial, dan eksplorasi komunikasi nonverbal; melakukan pengamatan mengenai ragam teknik/genre teater, ide penokohan dan peristiwa yang berasal dari karya profesional sebagai inspirasi dalam memproduksi dan menampilkan pertunjukan secara berkolaborasi dengan memanfaatkan platform digital.",
+            "Merefleksikan (Reflection)": "Mengapresiasi dan memberikan umpan balik mengenai pesan, kualitas akting, tata artistik, teknologi, dan elaborasi genre, pada suatu karya, dengan menggunakan kosakata seni teater yang tepat dan argumentasi berdasarkan teori yang dipelajari.",
+            "Berpikir dan Bekerja Artistik (Thinking and Working Artistically)": "Merancang tata artistik berdasarkan peran dan cerita untuk produksi.",
+            "Menciptakan (Creating)": "Menciptakan peran baru, naskah orisinal, dan menyusun kembali cerita/alur pertunjukan yang memperlihatkan kejelasan alur dan dinamika cerita/emosi di panggung maupun secara digital.",
+            "Berdampak (Impacting)": "Menghasilkan naskah atau pertunjukan berdasarkan minat, pengetahuan, peristiwa aktual, pengalaman, empati, kreativitas, dan respons terhadap ragam topik yang dipilihnya, sehingga memberi dampak positif bagi dirinya dan lingkungan sekitarnya."
+          }
+        }
+      ]
+    }
+  ]
+}
+```
