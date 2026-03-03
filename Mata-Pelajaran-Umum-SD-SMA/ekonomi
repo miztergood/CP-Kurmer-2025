@@ -1,0 +1,20 @@
+```json
+{
+  "kategori": "Mata Pelajaran Umum (SD/MI, SMP/MTs, SMA/MA)",
+  "mata_pelajaran": [
+    {
+      "nama": "Ekonomi",
+      "capaian_per_fase": [
+        {
+          "fase": "F",
+          "kelas": "XI dan XII SMA/SMK/MA/MAK Program Paket C",
+          "elemen": {
+            "Pemahaman Konsep": "Menjelaskan berbagai konsep dasar ekonomi; Mengidentifikasi berbagai permasalahan ekonomi dan keuangan, termasuk keterkaitan permasalahan ekonomi dengan literasi ekonomi dan keuangan digital yang terjadi di lingkungan sekitar, serta menganalisis dampak dari permasalahan ekonomi dan keuangan yang sedang terjadi berdasarkan konsep yang sudah dipelajari; memahami konsep-konsep pendapatan nasional dan pertumbuhan ekonomi serta kaitannya dengan kemiskinan, kesenjangan ekonomi, serta solusi untuk mengatasinya; memahami konsep ketenagakerjaan dan masalahnya serta solusi untuk mengatasinya; memahami konsep uang dan peredaran uang serta kaitannya dengan inflasi dan kebijakan moneter; memahami konsep akuntansi keuangan dasar dalam konteks menilai kondisi keuangan unit usaha (persamaan dasar akuntansi, siklus akuntansi dan laporan keuangan); dan memahami konsep kebijakan fiskal, fungsi anggaran negara dan daerah, dan perpajakan; konsep ekonomi internasional dan masalahnya.",
+            "Keterampilan Proses": "Mengamati kondisi dan masalah ekonomi di lingkungan sekitar, regional, atau nasional; mempertanyakan dan memprediksi faktor penyebab, kondisi, dan masalah ekonomi di lingkungan sekitar, regional, atau nasional; mengumpulkan informasi berkaitan dengan kondisi dan permasalahan ekonomi di lingkungan sekitar, regional, atau nasional; memvalidasi dan menganalisis informasi yang telah dikumpulkan terkait dengan faktor penyebab kondisi dan permasalahan ekonomi di lingkungan sekitar, regional, atau nasional; menarik kesimpulan terkait faktor penyebab dan memberikan solusi atas kondisi dan permasalahan ekonomi di lingkungan sekitar, regional, atau nasional; mengomunikasikan hasil pengamatan terkait penarikan kesimpulan atas kondisi dan permasalahan ekonomi serta solusi mengatasinya; merefleksikan solusi atas permasalahan ekonomi untuk kepentingan lingkungan sekitar; dan merencanakan projek lanjutan secara kolaboratif dalam rangka mengurangi permasalahan ekonomi di lingkungan sekitar."
+          }
+        }
+      ]
+    }
+  ]
+}
+```
