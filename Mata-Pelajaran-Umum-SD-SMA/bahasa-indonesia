@@ -1,0 +1,72 @@
+```json
+{
+  "kategori": "Mata Pelajaran Umum (SD/MI, SMP/MTs, SMA/MA)",
+  "mata_pelajaran": [
+    {
+      "nama": "Bahasa Indonesia",
+      "capaian_per_fase": [
+        {
+          "fase": "A",
+          "kelas": "I dan II SD/MI/Program Paket A",
+          "elemen": {
+            "Menyimak": "Memahami informasi dari teks nonsastra berbentuk teks aural (teks yang dibacakan dan/atau didengarkan) berupa percakapan yang berkaitan dengan diri, keluarga, dan/atau lingkungan sekitar; dan memahami pesan teks sastra berbentuk teks aural.",
+            "Membaca dan Memirsa": "Membaca kata-kata sederhana dengan fasih dari bacaan dan/atau tayangan yang dipirsa tentang diri, keluarga, kesehatan, dan/atau lingkungan sekitar; dan memahami isi bacaan dan/atau tayangan yang dipirsa tentang diri, keluarga, kesehatan, dan/atau lingkungan sekitar.",
+            "Berbicara dan Mempresentasikan": "Merespons dengan bertanya tentang sesuatu, menjawab, dan menanggapi komentar orang lain (teman, pendidik, dan/atau orang dewasa) dengan baik dan santun dalam suatu percakapan tentang diri, keluarga, kesehatan, dan/atau lingkungan sekitar; mengungkapkan perasaan dan gagasan secara lisan dengan atau tanpa bantuan gambar; dan menceritakan kembali isi berbagai tipe teks yang dibaca, dipirsa, atau didengar tentang diri, keluarga, kesehatan, dan/atau lingkungan sekitar.",
+            "Menulis": "Menulis permulaan dengan benar di atas kertas dan/atau melalui media digital; mengembangkan tulisan tangan yang semakin baik; dan menulis berbagai tipe teks sederhana tentang diri, keluarga, dan/atau lingkungan sekitar dengan beberapa kalimat sederhana."
+          }
+        },
+        {
+          "fase": "B",
+          "kelas": "III dan IV SD/MI/Program Paket A",
+          "elemen": {
+            "Menyimak": "Memahami ide pokok suatu informasi dari teks nonsastra berbentuk teks aural (teks yang dibacakan dan/atau didengarkan); dan memahami isi teks sastra berbentuk teks aural.",
+            "Membaca dan Memirsa": "Membaca kata-kata baru dengan fasih dari bacaan dan/atau tayangan yang dipirsa; dan memahami ide pokok, ide pendukung, pesan, dan informasi dalam teks sastra dan nonsastra berbentuk cetak dan/atau elektronik.",
+            "Berbicara dan Mempresentasikan": "Menyajikan pendapat dengan pilihan kata dan sikap tubuh/gestur yang sesuai, menggunakan volume dan intonasi yang tepat sesuai konteks; menanggapi diskusi sesuai tata cara; dan menceritakan kembali isi dan/atau informasi dari berbagai tipe teks yang dibaca, dipirsa, atau didengar.",
+            "Menulis": "Menulis berbagai tipe teks sederhana dengan rangkaian kalimat yang beragam; dan menggunakan kaidah kebahasaan dan kosakata baru yang memiliki makna denotatif untuk menulis teks sesuai dengan konteks."
+          }
+        },
+        {
+          "fase": "C",
+          "kelas": "V dan VI SD/MI/Program Paket A",
+          "elemen": {
+            "Menyimak": "Menganalisis informasi dari teks nonsastra berbentuk teks aural (teks yang dibacakan dan/atau didengarkan; dan menganalisis isi teks sastra berbentuk teks aural.",
+            "Membaca dan Memirsa": "Membaca kata-kata dengan berbagai pola kombinasi huruf dengan fasih dari bacaan dan/atau tayangan yang dipirsa; dan menganalisis informasi serta nilai-nilai dalam teks sastra dan nonsastra berwujud teks visual dan/atau audiovisual.",
+            "Berbicara dan Mempresentasikan": "Mempresentasikan gagasan dari berbagai tipe teks dengan efektif dan santun; dan menyampaikan perasaan berdasarkan fakta, imajinasi (dari diri sendiri dan orang lain) secara indah dan menarik dalam bentuk teks sastra dengan penggunaan kosakata secara kreatif.",
+            "Menulis": "Menulis berbagai tipe teks sederhana berdasarkan gagasan, hasil pengamatan, pengalaman, dan/atau imajinasi dengan rangkaian kalimat kompleks secara kreatif, menarik, dan/atau indah; dan menggunakan kaidah kebahasaan dan kosakata baru yang memiliki makna denotatif dan konotatif."
+          }
+        },
+        {
+          "fase": "D",
+          "kelas": "VII, VIII dan IX SMP/MTs/Program Paket B",
+          "elemen": {
+            "Menyimak": "Menganalisis gagasan, pandangan, arahan, dan/atau pesan dari teks nonsastra berbentuk teks aural (teks yang dibacakan dan/atau didengarkan); dan menganalisis unsur intrinsik teks sastra berbentuk teks aural.",
+            "Membaca dan Memirsa": "Menganalisis informasi berupa gagasan, pandangan, arahan, dan/atau pesan dari berbagai tipe teks berwujud teks visual dan/atau audiovisual untuk menemukan makna yang tersurat dan tersirat; menginterpretasi informasi untuk mengungkapkan kepedulian dan/atau pendapat pro/kontra dari berbagai tipe teks berwujud teks visual dan/atau audiovisual; dan mengevaluasi kualitas dan/atau kredibilitas dari berbagai tipe teks berwujud teks visual dan/atau audiovisual menggunakan sumber informasi lain.",
+            "Berbicara dan Mempresentasikan": "Mempresentasikan gagasan, pandangan, arahan, dan/atau pesan untuk tujuan pengajuan usul dan pemberian solusi dalam bentuk monolog, dialog logis, dan/atau berbagai tipe teks secara kritis dan kreatif; dan menyajikan ungkapan kepedulian dari berbagai tipe teks dan/atau teks multimodal.",
+            "Menulis": "Menulis gagasan, pandangan, arahan, pesan, pengalaman, dan/atau imajinasi dalam berbagai tipe teks secara logis, kritis, kreatif, menarik, dan/atau indah; menulis ungkapan kepedulian dan/atau pendapat pro/kontra dalam berbagai tipe teks berbentuk teks multimodal; dan menggunakan kosakata baru yang memiliki makna denotatif, konotatif, dan kiasan untuk menulis."
+          }
+        },
+        {
+          "fase": "E",
+          "kelas": "X SMA/MA/SMK/MAK/Program Paket C",
+          "elemen": {
+            "Menyimak": "Mengevaluasi gagasan, pandangan, arahan, dan/atau pesan dari teks nonsastra berbentuk teks aural (teks yang dibacakan dan/atau didengarkan); dan mengevaluasi unsur intrinsik dan ekstrinsik teks sastra berbentuk teks aural.",
+            "Membaca dan Memirsa": "Mengevaluasi informasi berupa gagasan, pandangan, arahan, dan/atau pesan dari berbagai tipe teks berwujud visual dan/atau audiovisual untuk menemukan makna yang tersurat dan tersirat; menginterpretasi informasi untuk mengungkapkan gagasan dan perasaan (simpati, peduli, dan empati) dari berbagai tipe teks berwujud teks visual dan/atau audiovisual secara kreatif; mengevaluasi kualitas dan/atau kredibilitas dari berbagai tipe teks berwujud teks visual dan/atau audiovisual menggunakan sumber informasi lain; dan membandingkan isi teks.",
+            "Berbicara dan Mempresentasikan": "Mempresentasikan gagasan, pandangan, arahan, dan/atau pesan berbagai tipe teks berbentuk monolog, dialog, dan/atau gelar wicara secara sistematis, kritis, dan/atau kreatif; dan mengungkapkan kepedulian dari berbagai tipe teks dan/atau teks multimodal secara kreatif.",
+            "Menulis": "Menulis gagasan, pandangan, arahan, pesan, dan/atau imajinasi dalam berbagai tipe teks secara logis, kritis, dan kreatif; dan memublikasikan hasil karya di media cetak, elektronik, dan/atau digital."
+          }
+        },
+        {
+          "fase": "F",
+          "kelas": "XI dan XII SMA/MA/SMK/MAK/Program Paket C",
+          "elemen": {
+            "Menyimak": "Mengevaluasi gagasan, perasaan, pandangan, arahan, dan/atau pesan dari teks nonsastra berbentuk teks aural (teks yang dibacakan dan/atau didengarkan); dan mengapresiasi teks sastra berbentuk teks aural.",
+            "Membaca dan Memirsa": "Mengevaluasi informasi berupa gagasan, perasaan, pandangan, arahan, dan/atau pesan dari berbagai tipe teks berwujud teks visual dan/atau audiovisual untuk menemukan makna yang tersurat dan tersirat berdasarkan kaidah logika berpikir; merefleksi gagasan dan pandangan berdasarkan kaidah logika berpikir dari berbagai tipe teks berwujud teks visual dan/atau audiovisual; dan mengapresiasi berbagai tipe teks berwujud teks visual dan/atau audiovisual.",
+            "Berbicara dan Mempresentasikan": "Mempresentasikan gagasan, perasaan, pandangan, arahan, pesan, dan/atau kreativitas berbahasa dalam berbagai tipe teks berbentuk monolog, dialog, dan/atau gelar wicara dan/atau berbagai tipe teks secara logis, sistematis, kritis, dan kreatif sesuai dengan norma kesopanan dan budaya Indonesia; menyajikan karya sastra secara kreatif dan menarik; dan mempertahankan hasil penelitian dengan argumentasi.",
+            "Menulis": "Menulis gagasan, pandangan, imajinasi, dan/atau pengetahuan metakognisi dalam berbagai tipe teks secara logis, kritis, dan kreatif; dan mempublikasikan hasil karya di media cetak, elektronik, dan/atau digital."
+          }
+        }
+      ]
+    }
+  ]
+}
+```
