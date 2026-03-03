@@ -1,0 +1,20 @@
+```json
+{
+  "kategori": "Mata Pelajaran Umum (SD/MI, SMP/MTs, SMA/MA)",
+  "mata_pelajaran": [
+    {
+      "nama": "Sosiologi",
+      "capaian_per_fase": [
+        {
+          "fase": "F",
+          "kelas": "XI dan XII SMA/MA/Program Paket C",
+          "elemen": {
+            "Pemahaman Konsep": "Menguasai sejumlah kompetensi, yakni murid mampu berpikir kritis dan kreatif; melakukan kajian literasi atas fenomena Sosiologi, menganalisis, menyajikan, melaporkan dan mengomunikasikan hasil kajian; mampu menunjukkan sikap berkesadaran sebagai warga yang baik, dan menghasilkan projek inovatif atas fenomena Sosiologi dalam bentuk digital maupun nondigital. Kompetensi tersebut terbentuk setelah murid menganalisis berbagai permasalahan sosial, konflik, dan integrasi sosial yang terjadi di masyarakat; dan murid juga mampu menyusun pemecahan masalah sosial dalam perspektif pemberdayaan, menerapkan prinsip kesetaraan dalam perbedaan sosial yang digunakan untuk mewujudkan masyarakat multikultural, serta menganalisis hubungan perubahan sosial pada kelompok atau komunitas dan globalisasi.",
+            "Keterampilan Proses": "Mengamati, mendokumentasikan, mengumpulkan, mengolah, menyajikan, melaporkan, dan mengomunikasikan fenomena sosial di Indonesia dan/atau dunia baik dari realitas sosial maupun dari media digital sebagai respon atas perubahan yang disajikan secara logis dan sistematis dengan pendekatan pembelajaran mendalam; Atas pemahaman dan refleksi yang dilakukan, murid mampu merancang projek kolaboratif yang solutif atas masalah sosial, konflik sosial dan kekerasan akibat perbedaan, integrasi sosial, perubahan sosial budaya, dan hubungannya dengan globalisasi dalam pendekatan pemberdayaan; dan hasil kerja kolaboratif dalam mengkaji objek Sosiologi murid mampu melahirkan pengalaman bermakna dan berkesadaran kolektif dalam membangun masyarakat yang harmonis."
+          }
+        }
+      ]
+    }
+  ]
+}
+```
