@@ -1,0 +1,78 @@
+```json
+{
+  "kategori": "Mata Pelajaran Umum (SD/MI, SMP/MTs, SMA/MA)",
+  "mata_pelajaran": [
+    {
+      "nama": "Seni Musik",
+      "capaian_per_fase": [
+        {
+          "fase": "A",
+          "kelas": "I dan II SD/MI/Program Paket A",
+          "elemen": {
+            "Mengalami (Experiencing)": "Mengenali unsur-unsur musik (nada dan irama) menggunakan anggota tubuh maupun alat musik.",
+            "Merefleksikan (Reflecting)": "Melakukan umpan balik mengenai praktik bermain musik diri sendiri atau orang lain menggunakan bahasa sehari-hari.",
+            "Berpikir dan Bekerja Artistik (Thinking and Working Artistically)": "Menirukan pola irama dan nada menggunakan alat musik ritmis atau melodis; mengenali ragam alat musik dan bunyi yang dihasilkan; mengenali cara memainkan dan membersihkan instrumen/alat musik.",
+            "Menciptakan (Creating)": "Membuat pola irama menggunakan anggota tubuh atau alat musik ritmis yang tersedia di lingkungan sekitar.",
+            "Berdampak (Impacting)": "Menunjukkan ekspresi senang dalam kegiatan bermusik."
+          }
+        },
+        {
+          "fase": "B",
+          "kelas": "III dan IV SD/MI/Program Paket A",
+          "elemen": {
+            "Mengalami (Experiencing)": "Mengenali nada dan pola irama menggunakan anggota tubuh maupun alat musik.",
+            "Merefleksikan (Reflecting)": "Melakukan umpan balik mengenai praktik bermusik diri sendiri atau orang lain menggunakan istilah musik.",
+            "Berpikir dan Bekerja Artistik (Thinking and Working Artistically)": "Menirukan pola irama dan melodi menggunakan alat musik ritmis atau melodis; menyebutkan karakteristik ragam alat musik dan bunyi yang dihasilkan; mengetahui cara memainkan dan merawat alat musik.",
+            "Menciptakan (Creating)": "Membuat bunyi menggunakan anggota tubuh atau alat musik ritmis dan melodis yang tersedia di lingkungan sekitar.",
+            "Berdampak (Impacting)": "Menunjukkan minat dalam kegiatan bermusik."
+          }
+        },
+        {
+          "fase": "C",
+          "kelas": "V dan VI SD/MI/Program Paket A",
+          "elemen": {
+            "Mengalami (Experiencing)": "Mengenali dan menerapkan unsur-unsur musik (nada, irama dan melodi) menggunakan alat musik ritmis dan melodis serta menunjukkan tingkat kepekaan akan unsur-unsur musik dengan menggunakan alat musik ritmis dan melodis.",
+            "Merefleksikan (Reflecting)": "Melakukan umpan balik mengenai karya dan kemampuan bermusik diri sendiri atau orang lain menggunakan istilah musik yang tepat.",
+            "Berpikir dan Bekerja Artistik (Thinking and Working Artistically)": "Mengeksplorasi variasi pola irama, tempo dan melodi dengan alat musik ritmis dan melodis menggunakan notasi musik dan teknik dasar yang telah dipelajari; menemukan alternatif untuk menghasilkan bunyi musik sederhana melalui eksplorasi material yang tersedia di lingkungan sekitar dan menerapkan cara memainkan dan merawat alat musik dengan teknik yang tepat sesuai dengan spesifikasi bahan alat musik.",
+            "Menciptakan (Creating)": "Membuat dan mengembangkan pola irama menggunakan anggota tubuh atau alat musik ritmis yang tersedia berdasarkan nilai kearifan lokal daerahnya.",
+            "Berdampak (Impacting)": "Menunjukkan minat dan rasa ingin tahu dalam kegiatan bermusik."
+          }
+        },
+        {
+          "fase": "D",
+          "kelas": "VII, VIII dan IX SMP/MTs/Program Paket B",
+          "elemen": {
+            "Mengalami (Experiencing)": "Mengenali dan menerapkan unsur-unsur musik berupa nada, irama, dan melodi, dengan alat musik berbasis teknologi yang sesuai dengan kondisi setempat serta mengidentifikasi karakteristik musik dari berbagai genre dan era.",
+            "Merefleksikan (Reflecting)": "Melakukan umpan balik kemampuan bermain musik, karya musik diri sendiri atau orang lain sesuai dengan genre menggunakan istilah musik yang tepat.",
+            "Berpikir dan Bekerja Artistik (Thinking and Working Artistically)": "Menerapkan seluruh proses berpraktik musik untuk perbaikan dan perkembangan keterampilan bermusik; menyajikan musik sederhana dari daerah setempat dan Nusantara; dan menyajikan karya-karya musik modern Indonesia dengan interpretasi dan ekspresi yang tepat, baik secara individu maupun berkelompok.",
+            "Menciptakan (Creating)": "Mengenali dan menghasilkan lagu sederhana dengan mengembangkan irama dan melodi menggunakan berbagai alat musik.",
+            "Berdampak (Impacting)": "Menunjukkan minat, empati, dan kepedulian terhadap isu-isu di lingkungan sekitar melalui kegiatan bermusik."
+          }
+        },
+        {
+          "fase": "E",
+          "kelas": "X SMA/MA/SMK/MAK/Program Paket C",
+          "elemen": {
+            "Mengalami (Experiencing)": "Mengidentifikasi dan menjelaskan unsur-unsur musik berupa nada, irama, melodi, harmoni, timbre, tempo, dan dinamika menggunakan alat musik dengan teknologi yang sesuai dengan kondisi setempat, serta menganalisis musik dari berbagai genre, era, dan instrumen yang digunakan.",
+            "Merefleksikan (Reflecting)": "Menjelaskan hasil analisis kemampuan bermain musik dan karya musik diri sendiri atau orang lain, sesuai dengan teknik dan genre menggunakan istilah musik yang tepat.",
+            "Berpikir dan Bekerja Artistik (Thinking and Working Artistically)": "Menjalani proses praktik musik dengan penuh kesadaran untuk perbaikan dan perkembangan keterampilan bermusik; menyajikan musik nusantara dengan penuh ekspresi; dan menyajikan karya-karya musik modern Indonesia dengan interpretasi dan ekspresi yang tepat, baik secara individu maupun berkelompok.",
+            "Menciptakan (Creating)": "Menciptakan, menyajikan dan mendokumentasikan karya musik kreasi sendiri untuk mengekspresikan pengalaman pribadi maupun persoalan di masyarakat.",
+            "Berdampak (Impacting)": "Menerapkan dampak positif dari kegiatan bermusik dalam perilaku di kehidupan sehari-hari."
+          }
+        },
+        {
+          "fase": "F",
+          "kelas": "XI dan XII SMA/MA/Program Paket C",
+          "elemen": {
+            "Mengalami (Experiencing)": "Menyimak dan mengeksplorasi unsur-unsur musik (nada, irama, melodi, harmoni, timbre, tempo, dan dinamika) menggunakan alat musik dengan teknologi yang sesuai dengan kondisi setempat; murid mampu mengevaluasi karya-karya musik secara musikal dan bertanggung jawab.",
+            "Merefleksikan (Reflecting)": "Menerapkan hasil evaluasi praktik bermain musik baik sendiri maupun kelompok.",
+            "Berpikir dan Bekerja Artistik (Thinking and Working Artistically)": "Menjalani dan mendokumentasikan kebiasaan bermusik secara mandiri atau berkolaborasi dengan baik dan cermat; murid mampu menunjukkan penguasaan unsur-unsur musik, pemahaman dan keterampilan bermusik, serta keberagaman konteks dalam praktik musik; murid mampu menyajikan ansambel musik remaja menggunakan karya musik mancanegara dengan teknologi yang sesuai kondisi setempat.",
+            "Menciptakan (Creating)": "Menciptakan, menyajikan dan mendokumentasikan karya kolaborasi dengan menerapkan manajemen pementasan.",
+            "Berdampak (Impacting)": "Menghayati kegiatan bermusik yang kolaboratif dan kompleks, memperluas pengalaman, meningkatkan keterampilan bermain musik, serta penerapannya dalam kehidupan sehari-hari."
+          }
+        }
+      ]
+    }
+  ]
+}
+```
