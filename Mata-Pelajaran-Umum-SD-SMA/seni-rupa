@@ -1,0 +1,78 @@
+```json
+{
+  "kategori": "Mata Pelajaran Umum (SD/MI, SMP/MTs, SMA/MA)",
+  "mata_pelajaran": [
+    {
+      "nama": "Seni Rupa",
+      "capaian_per_fase": [
+        {
+          "fase": "A",
+          "kelas": "I dan II SD/MI/Program Paket A",
+          "elemen": {
+            "Mengalami (Experiencing)": "Mengenali dan menyebutkan unsur-unsur rupa dalam benda-benda di sekitar/karya seni rupa.",
+            "Merefleksikan (Reflecting)": "Merefleksikan dan mengapresiasi karya diri sendiri.",
+            "Berpikir dan Bekerja Artistik (Thinking and Working Artistically)": "Mengenali dan menguji coba alat dan/atau bahan yang dimiliki.",
+            "Menciptakan (Making/Creating)": "Membuat karya seni rupa berdasarkan pengalaman dan hasil pengamatan terhadap lingkungan sekitar.",
+            "Berdampak (Impacting)": "Menghasilkan karya seni rupa yang berdampak pada perasaan dirinya."
+          }
+        },
+        {
+          "fase": "B",
+          "kelas": "III dan IV SD/MI/Program Paket A",
+          "elemen": {
+            "Mengalami (Experiencing)": "Mengidentifikasi unsur rupa dan prinsip desain dalam benda-benda di sekitar/karya seni rupa.",
+            "Merefleksikan (Reflecting)": "Merefleksikan dan mengapresiasi karya diri sendiri dan teman sekelas menggunakan kosa kata seni rupa yang sesuai.",
+            "Berpikir dan Bekerja Artistik (Thinking and Working Artistically)": "Mengenali dan menguji coba alat dan/atau bahan yang dimiliki serta prosedur penggunaannya.",
+            "Menciptakan (Making/Creating)": "Membuat karya seni rupa berdasarkan pengalaman dan hasil pengamatan terhadap lingkungan sekitar.",
+            "Berdampak (Impacting)": "Menghasilkan karya seni rupa yang berdampak pada perasaan atau mewakili harapannya."
+          }
+        },
+        {
+          "fase": "C",
+          "kelas": "V dan VI SD/MI/Program Paket A",
+          "elemen": {
+            "Mengalami (Experiencing)": "Menjelaskan unsur rupa dan prinsip desain dalam benda-benda di sekitar/karya seni rupa.",
+            "Merefleksikan (Reflecting)": "Merefleksikan dan mengapresiasi karya diri sendiri dan teman sekelas menggunakan kosa kata seni rupa yang sesuai.",
+            "Berpikir dan Bekerja Artistik (Thinking and Working Artistically)": "Mengenali dan menguji coba variasi teknik penggunaan alat dan/atau bahan.",
+            "Menciptakan (Making/Creating)": "Membuat karya seni rupa berdasarkan pengalaman dan/atau hasil pengamatan terhadap lingkungan sekitar melalui pengembangan imajinasi.",
+            "Berdampak (Impacting)": "Menghasilkan karya seni rupa yang mewakili minatnya."
+          }
+        },
+        {
+          "fase": "D",
+          "kelas": "VII, VIII, dan IX SMP/MTs/Program Paket B",
+          "elemen": {
+            "Mengalami (Experiencing)": "Menganalisis unsur rupa dan prinsip desain dalam benda-benda di sekitar/karya seni rupa.",
+            "Merefleksikan (Reflecting)": "Merefleksikan dan mengapresiasi karya diri sendiri dan teman sekelas; membandingkan unsur rupa, prinsip desain, dan fungsi karya seni rupa menggunakan kosa kata seni rupa yang sesuai.",
+            "Berpikir dan Bekerja Artistik (Thinking and Working Artistically)": "Mengaplikasikan variasi teknik penggunaan alat dan bahan yang dimiliki untuk berkarya; mengeksplorasi alternatif/potensi alat dan bahan yang ada di lingkungan sekitar.",
+            "Menciptakan (Making/Creating)": "Membuat karya seni rupa berdasarkan pengalaman dan/atau hasil pengamatan terhadap lingkungan sekitar, dengan mempertimbangkan fungsi, menggunakan gaya atau teknik yang telah dipelajari.",
+            "Berdampak (Impacting)": "Menghasilkan karya seni rupa untuk merespon pengalaman sehari-hari dan mengekspresikan perasaan atau minat."
+          }
+        },
+        {
+          "fase": "E",
+          "kelas": "X SMA/MA/SMK/MAK/Program Paket C",
+          "elemen": {
+            "Mengalami (Experiencing)": "Mengeksplorasi unsur rupa dan prinsip desain dalam benda-benda di sekitar/karya seni rupa.",
+            "Merefleksikan (Reflecting)": "Merefleksikan penggunaan unsur rupa, prinsip desain, dan fungsi dalam karya diri sendiri dan teman sekelas menggunakan kosa kata seni rupa yang sesuai.",
+            "Berpikir dan Bekerja Artistik (Thinking and Working Artistically)": "Mengeksplorasi alternatif/potensi alat dan bahan yang ada di lingkungan sekitar dan menghubungkan seni dengan kelompok atau bidang keilmuan lain dalam berkarya seni rupa.",
+            "Menciptakan (Making/Creating)": "Membuat karya seni rupa berdasarkan pengalaman dan/atau hasil pengamatan terhadap lingkungan sekitar, dengan mempertimbangkan fungsi, menggunakan gaya atau teknik yang dipilih.",
+            "Berdampak (Impacting)": "Menghasilkan karya seni rupa untuk mengajak orang lain, merespon pengalaman sehari-hari, dan mengekspresikan perasaan atau minat."
+          }
+        },
+        {
+          "fase": "F",
+          "kelas": "XI dan XII SMA/MA/Program Paket C",
+          "elemen": {
+            "Mengalami (Experiencing)": "Mengeksplorasi penggunaan unsur rupa dan prinsip desain dalam benda-benda di sekitar/karya seni rupa.",
+            "Merefleksikan (Reflecting)": "Merefleksikan penggunaan unsur rupa, prinsip desain, dan fungsi dalam karya diri sendiri dan teman sekelas menggunakan kosa kata seni rupa yang sesuai.",
+            "Berpikir dan Bekerja Artistik (Thinking and Working Artistically)": "Menganalisis potensi alat dan bahan yang ada di lingkungan sekitar dan keterhubungan seni rupa dengan kelompok atau bidang keilmuan lain dalam berkarya.",
+            "Menciptakan (Making/Creating)": "Membuat karya seni rupa berdasarkan pengalaman dan/atau hasil pengamatan terhadap lingkungan sekitar, dengan mempertimbangkan fungsi, menggunakan gaya atau teknik yang dikuasai.",
+            "Berdampak (Impacting)": "Menghasilkan karya seni rupa untuk mengajak orang lain, merespon pengalaman sehari-hari, mengekspresikan perasaan, minat, dan/atau isu sosial dalam masyarakat."
+          }
+        }
+      ]
+    }
+  ]
+}
+```
